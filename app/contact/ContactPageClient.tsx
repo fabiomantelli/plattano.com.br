@@ -78,13 +78,13 @@ export default function ContactPageClient() {
                     </a>
 
                     <a
-                      href="mailto:plattano@plattano.com"
+                      href="mailto:plattano@plattano.com.br"
                       className="flex items-start p-3 rounded-lg hover:bg-gray-50 transition-colors group"
                     >
                       <Mail className="h-5 w-5 text-primary-600 mr-3 mt-0.5 group-hover:scale-110 transition-transform" />
                       <div>
                         <p className="font-medium text-gray-900">E-mail</p>
-                        <p className="text-sm text-gray-600">plattano@plattano.com</p>
+                        <p className="text-sm text-gray-600">plattano@plattano.com.br</p>
                       </div>
                     </a>
 
@@ -95,7 +95,7 @@ export default function ContactPageClient() {
                         <p className="text-sm text-gray-600">
                           7345 W Sand Lake Rd Ste 210
                           <br />
-                          Orlando, FL 32819
+                          Florianópolis, SC 88034-132
                           <br />
                           EUA
                         </p>
@@ -159,10 +159,10 @@ export default function ContactPageClient() {
                 Visite Nosso Escritório
               </h2>
               <p className="text-xl text-gray-600 mb-2">
-                7345 W Sand Lake Rd Ste 210, Orlando, FL 32819
+                Rua Patrício Farias, 55 Sala 102, Itacorubi, Florianópolis, SC, CEP 88034-132
               </p>
               <p className="text-gray-500">
-                Localizado no coração de Orlando, Florianópolis
+                Localizado no coração de Florianópolis, SC
               </p>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-lg border border-gray-200">

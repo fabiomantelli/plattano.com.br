@@ -168,11 +168,11 @@ export default function Navigation() {
                     (321) 313-8762
                   </a>
                   <a
-                    href="mailto:plattano@plattano.com"
+                    href="mailto:plattano@plattano.com.br"
                     className="flex items-center hover:text-primary-600 transition-colors"
                   >
                     <Mail className="h-4 w-4 mr-2" />
-                    plattano@plattano.com
+                    plattano@plattano.com.br
                   </a>
                 </div>
               </div>

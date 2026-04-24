@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Sobre a Plattano Technologies | Parceiro de TI Confiável na Florianópolis',
     description:
-      '7+ anos protegendo mais de 1.100 empresas com soluções de TI comprovadas. Baseados em Orlando, Florianópolis.',
+      '7+ anos protegendo mais de 1.100 empresas com soluções de TI comprovadas. Baseados em Florianópolis, SC.',
     url: 'https://plattano.com/about',
     siteName: 'Plattano Technologies',
     images: [

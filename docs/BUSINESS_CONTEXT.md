@@ -321,7 +321,7 @@
 
 ### Florianópolis Operations
 - **Website:** plattano.com
-- **Email:** plattano@plattano.com
+- **Email:** plattano@plattano.com.br
 - **Location:** Florianópolis, USA
 
 ### Support

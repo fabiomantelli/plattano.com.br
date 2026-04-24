@@ -20,11 +20,11 @@ export default function Footer() {
             </p>
             <div className="space-y-3">
               <a
-                href="mailto:plattano@plattano.com"
+                href="mailto:plattano@plattano.com.br"
                 className="flex items-center text-gray-400 hover:text-primary-400 transition-colors group"
               >
                 <Mail className="h-5 w-5 mr-2 group-hover:scale-110 transition-transform" />
-                plattano@plattano.com
+                plattano@plattano.com.br
               </a>
               <a
                 href="tel:+3213138762"
@@ -35,7 +35,7 @@ export default function Footer() {
               </a>
               <div className="flex items-center text-gray-400">
                 <MapPin className="h-5 w-5 mr-2" />
-                Orlando, FL 32819
+                Florianópolis, SC 88034-132
               </div>
             </div>
           </div>

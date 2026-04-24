@@ -1,6 +1,6 @@
 export const companyInfo = {
   founded: '2018',
-  location: 'Orlando, Florianópolis',
+  location: 'Florianópolis, SC',
   employees: '15+',
   clients: '1.100+',
   mission:

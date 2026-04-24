@@ -141,7 +141,7 @@ export const ORGANIZATION_DATA = {
   postalCode: '32819',
   addressCountry: 'US',
   telephone: '+1-321-313-8762',
-  email: 'plattano@plattano.com',
+  email: 'plattano@plattano.com.br',
   foundingDate: '2018',
   numberOfEmployees: '15+',
   areaServed: ['US', 'FL', 'Orlando'],

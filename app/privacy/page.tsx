@@ -114,8 +114,8 @@ export default function PrivacyPage() {
             <div className="bg-gray-50 rounded-lg p-6">
               <p className="text-gray-700">
                 <strong>Plattano</strong><br />
-                7345 W Sand Lake Rd Ste 210<br />
-                Orlando, FL 32819<br />
+                Rua Patrício Farias, 55 Sala 102, Itacorubi<br />
+                Florianópolis, SC 88034-132<br />
                 EUA<br />
                 <br />
                 E-mail: plattano@plattano.com<br />

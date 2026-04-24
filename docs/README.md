@@ -223,7 +223,7 @@ This documentation provides comprehensive context and guidance for AI agents, cu
 ## 📞 Support Information
 
 ### Support Channels
-- **Email:** plattano@plattano.com
+- **Email:** plattano@plattano.com.br
 - **Website:** plattano.com/contact
 - **Phone:** [Contact information]
 
@@ -293,7 +293,7 @@ This documentation provides comprehensive context and guidance for AI agents, cu
 ## 📧 Contact
 
 For questions or updates to this documentation:
-- **Email:** plattano@plattano.com
+- **Email:** plattano@plattano.com.br
 - **Website:** plattano.com
 
 ---

@@ -260,7 +260,7 @@ When relevant, share these statistics:
 
 - **Website:** plattano.com
 - **Contact Form:** plattano.com/contact
-- **Email:** plattano@plattano.com
+- **Email:** plattano@plattano.com.br
 - **Support SLA:** 4 hours (critical), 24 hours (non-critical)
 
 ---
