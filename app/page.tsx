@@ -9,28 +9,28 @@ import StructuredData from './components/seo/StructuredData'
 import { generateWebSiteSchema } from './lib/seo/generateStructuredData'
 
 export const metadata: Metadata = {
-  title: 'Plattano Technologies | Enterprise IT Solutions in Florida',
+  title: 'Plattano Technologies | Soluções de TI Empresarial na Flórida',
   description:
-    'Leading provider of backup, storage, and cybersecurity solutions in Florida. Veeam, ExaGrid, SentinelOne certified partner. Protect and scale your business.',
+    'Provedor líder de soluções de backup, storage e cibersegurança na Flórida. Parceiro certificado Veeam, ExaGrid e SentinelOne. Proteja e escale seu negócio.',
   keywords: [
-    'IT solutions Florida',
-    'Veeam partner',
-    'backup solutions',
-    'cybersecurity',
-    'data protection',
+    'soluções de TI Flórida',
+    'parceiro Veeam',
+    'soluções de backup',
+    'cibersegurança',
+    'proteção de dados',
     'cloud storage',
-    'enterprise IT',
-    'Orlando IT services',
-    'ExaGrid partner',
-    'SentinelOne partner',
+    'TI empresarial',
+    'serviços de TI Orlando',
+    'parceiro ExaGrid',
+    'parceiro SentinelOne',
   ],
   alternates: {
     canonical: 'https://plattano.com',
   },
   openGraph: {
-    title: 'Plattano Technologies | Enterprise IT Solutions in Florida',
+    title: 'Plattano Technologies | Soluções de TI Empresarial na Flórida',
     description:
-      'Leading provider of backup, storage, and cybersecurity solutions in Florida. Trusted by 1,100+ businesses.',
+      'Provedor líder de soluções de backup, storage e cibersegurança na Flórida. Confiado por mais de 1.100 empresas.',
     url: 'https://plattano.com',
     siteName: 'Plattano Technologies',
     images: [
@@ -41,14 +41,14 @@ export const metadata: Metadata = {
         alt: 'Plattano Technologies',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Plattano Technologies | Enterprise IT Solutions',
+    title: 'Plattano Technologies | Soluções de TI Empresarial',
     description:
-      'Leading provider of backup, storage, and cybersecurity solutions in Florida.',
+      'Provedor líder de soluções de backup, storage e cibersegurança na Flórida.',
     images: ['https://plattano.com/images/home/logo.webp'],
   },
 }

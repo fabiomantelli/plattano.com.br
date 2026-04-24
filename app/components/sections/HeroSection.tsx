@@ -25,7 +25,7 @@ export default function HeroSection() {
             className="inline-flex items-center px-4 py-2 rounded-full bg-primary-100 text-primary-700 text-sm font-medium mb-8"
           >
             <span className="w-2 h-2 bg-primary-500 rounded-full mr-2 animate-pulse" />
-            Trusted by 1,100+ businesses in Florida
+            Confiado por mais de 1.100 empresas na Flórida
           </motion.div>
 
           {/* Headline */}
@@ -35,10 +35,10 @@ export default function HeroSection() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 mb-6 leading-tight"
           >
-            Protect and Scale Your Business
+            Proteja e Escale Seu Negócio
             <br />
             <span className="gradient-text">
-              with Proven IT Solutions
+              com Soluções de TI Comprovadas
             </span>
           </motion.h1>
 
@@ -49,8 +49,8 @@ export default function HeroSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto"
           >
-            Certified Veeam, SentinelOne, and ExaGrid partner in Florida.
-            Protecting critical data for businesses like yours.
+            Parceiro certificado Veeam, SentinelOne e ExaGrid na Flórida.
+            Protegendo dados críticos para empresas como a sua.
           </motion.p>
 
           {/* CTAs */}
@@ -62,14 +62,14 @@ export default function HeroSection() {
           >
             <Button size="lg" asChild>
               <Link href="/contact">
-                Talk to a Specialist
+                Falar com um Especialista
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>
             <Button size="lg" variant="outline" asChild>
               <Link href="#solutions">
                 <Play className="mr-2 h-5 w-5" />
-                See Solutions
+                Ver Soluções
               </Link>
             </Button>
           </motion.div>
@@ -85,25 +85,25 @@ export default function HeroSection() {
               <div className="text-4xl font-bold text-primary-600 mb-2">
                 7+
               </div>
-              <div className="text-gray-600 text-sm">Years of Experience</div>
+              <div className="text-gray-600 text-sm">Anos de Experiência</div>
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-primary-600 mb-2">
-                1,100+
+                1.100+
               </div>
-              <div className="text-gray-600 text-sm">Protected Clients</div>
+              <div className="text-gray-600 text-sm">Clientes Protegidos</div>
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-primary-600 mb-2">
                 15K+
               </div>
-              <div className="text-gray-600 text-sm">VMs Provisioned</div>
+              <div className="text-gray-600 text-sm">VMs Provisionadas</div>
             </div>
             <div className="text-center">
               <div className="text-4xl font-bold text-secondary-600 mb-2">
                 0
               </div>
-              <div className="text-gray-600 text-sm">Data Loss Events</div>
+              <div className="text-gray-600 text-sm">Incidentes de Perda de Dados</div>
             </div>
           </motion.div>
         </div>
@@ -117,7 +117,7 @@ export default function HeroSection() {
         className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
       >
         <div className="flex flex-col items-center">
-          <span className="text-sm text-gray-500 mb-2">Scroll to explore</span>
+          <span className="text-sm text-gray-500 mb-2">Role para explorar</span>
           <div className="w-6 h-10 border-2 border-gray-300 rounded-full flex justify-center">
             <div className="w-1 h-3 bg-gray-400 rounded-full mt-2 animate-bounce" />
           </div>

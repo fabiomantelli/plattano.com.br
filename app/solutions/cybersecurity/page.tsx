@@ -2,27 +2,27 @@ import type { Metadata } from 'next'
 import CybersecurityPageClient from './CybersecurityPageClient'
 
 export const metadata: Metadata = {
-  title: 'Cybersecurity Solutions | SentinelOne & Rainforest | Plattano Technologies',
+  title: 'Soluções de Cibersegurança | SentinelOne & Rainforest | Plattano Technologies',
   description:
-    'AI-powered cybersecurity with SentinelOne and Rainforest. Protect against advanced threats, ransomware, and brand attacks. Free 30-day trial available.',
+    'Cibersegurança com IA via SentinelOne e Rainforest. Proteção contra ameaças avançadas, ransomware e ataques à marca. Trial gratuito de 30 dias disponível.',
   keywords: [
-    'SentinelOne partner',
-    'cybersecurity Florida',
-    'endpoint protection',
-    'XDR platform',
-    'ransomware protection',
-    'brand protection',
-    'dark web monitoring',
-    'cybersecurity solutions',
-    'Rainforest security',
+    'parceiro SentinelOne',
+    'cibersegurança Flórida',
+    'proteção de endpoint',
+    'plataforma XDR',
+    'proteção contra ransomware',
+    'proteção de marca',
+    'monitoramento dark web',
+    'soluções de cibersegurança',
+    'segurança Rainforest',
   ],
   alternates: {
     canonical: 'https://plattano.com/solutions/cybersecurity',
   },
   openGraph: {
-    title: 'Cybersecurity Solutions | SentinelOne & Rainforest | Plattano',
+    title: 'Soluções de Cibersegurança | SentinelOne & Rainforest | Plattano',
     description:
-      'AI-powered protection against advanced threats, ransomware, and brand attacks. Free 30-day trial.',
+      'Proteção com IA contra ameaças avançadas, ransomware e ataques à marca. Trial gratuito de 30 dias.',
     url: 'https://plattano.com/solutions/cybersecurity',
     siteName: 'Plattano Technologies',
     images: [
@@ -30,16 +30,16 @@ export const metadata: Metadata = {
         url: 'https://plattano.com/images/home/logo.webp',
         width: 1200,
         height: 630,
-        alt: 'Cybersecurity Solutions',
+        alt: 'Soluções de Cibersegurança',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Cybersecurity Solutions | SentinelOne & Rainforest',
-    description: 'AI-powered protection against advanced threats and ransomware.',
+    title: 'Soluções de Cibersegurança | SentinelOne & Rainforest',
+    description: 'Proteção com IA contra ameaças avançadas e ransomware.',
   },
 }
 

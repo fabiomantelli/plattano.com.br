@@ -15,137 +15,137 @@ export interface CybersecuritySolution {
 export const sentinelOne: CybersecuritySolution = {
   id: 'sentinelone',
   name: 'SentinelOne',
-  tagline: 'AI-Powered Endpoint Protection',
+  tagline: 'Proteção de Endpoint com IA',
   description:
-    'Industry-leading XDR platform with autonomous AI. Detection and response in less than 1 second.',
+    'Plataforma XDR líder de mercado com IA autônoma. Detecção e resposta em menos de 1 segundo.',
   features: [
     {
       icon: '🤖',
-      title: 'Autonomous AI',
-      description: 'Detection and response without human intervention',
+      title: 'IA Autônoma',
+      description: 'Detecção e resposta sem intervenção humana',
     },
     {
       icon: '⚡',
-      title: 'Instant Response',
-      description: 'Blocking in < 1 second',
+      title: 'Resposta Instantânea',
+      description: 'Bloqueio em < 1 segundo',
     },
     {
       icon: '🔍',
-      title: 'XDR Platform',
-      description: 'Complete visibility (endpoint, cloud, identity)',
+      title: 'Plataforma XDR',
+      description: 'Visibilidade completa (endpoint, cloud, identidade)',
     },
     {
       icon: '📱',
-      title: 'Total Coverage',
+      title: 'Cobertura Total',
       description: 'Windows, Mac, Linux, mobile, containers',
     },
     {
       icon: '🏆',
-      title: 'Gartner Leader',
-      description: '#1 in EPP and EDR',
+      title: 'Líder Gartner',
+      description: '#1 em EPP e EDR',
     },
     {
       icon: '🔄',
-      title: 'Automatic Rollback',
-      description: 'Ransomware rollback without data loss',
+      title: 'Rollback Automático',
+      description: 'Rollback de ransomware sem perda de dados',
     },
   ],
   useCases: [
-    'Companies with distributed endpoints',
-    'Need for automatic response',
-    'Heterogeneous environments (multi-OS)',
-    'Zero Trust security model',
+    'Empresas com endpoints distribuídos',
+    'Necessidade de resposta automática',
+    'Ambientes heterogêneos (multi-OS)',
+    'Modelo de segurança Zero Trust',
   ],
   differentiators: [
-    'No performance impact',
-    'Automatic ransomware rollback',
-    'Integrated threat hunting',
-    'Compliance (PCI-DSS, HIPAA, SOC 2)',
+    'Sem impacto na performance',
+    'Rollback automático de ransomware',
+    'Threat hunting integrado',
+    'Conformidade (PCI-DSS, HIPAA, SOC 2)',
   ],
 }
 
 export const rainforest: CybersecuritySolution = {
   id: 'rainforest',
   name: 'Rainforest',
-  tagline: 'Brand Protection & Leak Detection',
+  tagline: 'Proteção de Marca e Detecção de Vazamentos',
   description:
-    '24/7 brand monitoring and dark web leak detection. Protect your digital reputation.',
+    'Monitoramento de marca 24/7 e detecção de vazamentos na dark web. Proteja sua reputação digital.',
   features: [
     {
       icon: '🌐',
       title: 'Brand Intelligence',
-      description: '24/7 brand monitoring',
+      description: 'Monitoramento de marca 24/7',
     },
     {
       icon: '🔓',
-      title: 'Leak Detection',
-      description: 'Detection of leaked credentials',
+      title: 'Detecção de Vazamentos',
+      description: 'Detecção de credenciais vazadas',
     },
     {
       icon: '🎭',
-      title: 'Fraud Protection',
-      description: 'Protection against phishing and fraud',
+      title: 'Proteção contra Fraudes',
+      description: 'Proteção contra phishing e fraudes',
     },
     {
       icon: '☁️',
-      title: 'Cloud Security',
-      description: 'Cloud app monitoring',
+      title: 'Segurança na Cloud',
+      description: 'Monitoramento de apps na cloud',
     },
     {
       icon: '🛡️',
-      title: 'App Security',
-      description: 'Vulnerability analysis',
+      title: 'Segurança de Apps',
+      description: 'Análise de vulnerabilidades',
     },
     {
       icon: '🚨',
       title: 'Takedown Service',
-      description: 'Removal of fraudulent sites',
+      description: 'Remoção de sites fraudulentos',
     },
   ],
   useCases: [
-    'Companies with strong digital presence',
-    'E-commerce and fintech',
-    'Intellectual property protection',
-    'Brand reputation management',
+    'Empresas com forte presença digital',
+    'E-commerce e fintech',
+    'Proteção de propriedade intelectual',
+    'Gestão de reputação de marca',
   ],
   differentiators: [
-    'Dark web monitoring',
-    'Fraudulent site takedown',
-    'Real-time alerts',
-    'Executive reports',
+    'Monitoramento na dark web',
+    'Takedown de sites fraudulentos',
+    'Alertas em tempo real',
+    'Relatórios executivos',
   ],
 }
 
 export const threatStats = [
-  { value: '11s', label: 'Ransomware attack frequency' },
-  { value: '$4.54M', label: 'Average cost per breach' },
-  { value: '207 days', label: 'Average detection time' },
-  { value: '+150%', label: 'Increase in sophisticated attacks' },
+  { value: '11s', label: 'Frequência de ataques de ransomware' },
+  { value: '$4,54M', label: 'Custo médio por violação' },
+  { value: '207 dias', label: 'Tempo médio de detecção' },
+  { value: '+150%', label: 'Aumento em ataques sofisticados' },
 ]
 
 export const comparisonTable = [
   {
-    need: 'Endpoint protection',
+    need: 'Proteção de endpoint',
     sentinelone: true,
     rainforest: false,
   },
   {
-    need: 'Brand monitoring',
+    need: 'Monitoramento de marca',
     sentinelone: false,
     rainforest: true,
   },
   {
-    need: 'Automatic response',
+    need: 'Resposta automática',
     sentinelone: true,
     rainforest: false,
   },
   {
-    need: 'Leak detection',
+    need: 'Detecção de vazamentos',
     sentinelone: false,
     rainforest: true,
   },
   {
-    need: 'Compliance',
+    need: 'Conformidade',
     sentinelone: true,
     rainforest: true,
   },
@@ -156,49 +156,49 @@ export const caseStudies = [
     industry: 'E-commerce',
     challenge: 'Phishing + credential stuffing',
     solution: 'SentinelOne + Rainforest',
-    result: '99.8% blocking, $200K saved',
+    result: '99,8% de bloqueio, $200K economizados',
   },
   {
-    industry: 'Healthcare',
-    challenge: 'Ransomware + HIPAA compliance',
+    industry: 'Saúde',
+    challenge: 'Ransomware + conformidade HIPAA',
     solution: 'SentinelOne XDR',
-    result: 'Zero breaches, audit approved',
+    result: 'Zero violações, auditoria aprovada',
   },
   {
-    industry: 'Finance',
-    challenge: 'Brand fraud + APTs',
+    industry: 'Financeiro',
+    challenge: 'Fraude de marca + APTs',
     solution: 'Rainforest + SentinelOne',
-    result: '15 fraudulent sites removed, 0 incidents',
+    result: '15 sites fraudulentos removidos, 0 incidentes',
   },
 ]
 
 export const faqs = [
   {
-    question: 'Does SentinelOne replace traditional antivirus?',
+    question: 'O SentinelOne substitui o antivírus tradicional?',
     answer:
-      'Yes. It is a next-gen solution that replaces legacy AV with AI-powered protection.',
+      'Sim. É uma solução de nova geração que substitui o AV legado com proteção baseada em IA.',
   },
   {
-    question: 'Does Rainforest monitor the dark web?',
+    question: 'O Rainforest monitora a dark web?',
     answer:
-      'Yes. 24/7 monitoring of forums, marketplaces, and leaks.',
+      'Sim. Monitoramento 24/7 de fóruns, marketplaces e vazamentos.',
   },
   {
-    question: 'How much does it cost?',
+    question: 'Quanto custa?',
     answer:
-      'SentinelOne: per endpoint. Rainforest: per domain. Request a quote.',
+      'SentinelOne: por endpoint. Rainforest: por domínio. Solicite uma proposta.',
   },
   {
-    question: 'Can I test it?',
-    answer: 'Yes. SentinelOne: 30 days. Rainforest: free scan.',
+    question: 'Posso testar?',
+    answer: 'Sim. SentinelOne: 30 dias. Rainforest: scan gratuito.',
   },
   {
-    question: 'Do you offer SOC?',
-    answer: 'Yes. SOC as a Service with SentinelOne + 24/7 analysts.',
+    question: 'Vocês oferecem SOC?',
+    answer: 'Sim. SOC as a Service com SentinelOne + analistas 24/7.',
   },
   {
-    question: 'What is the implementation time?',
+    question: 'Qual é o tempo de implementação?',
     answer:
-      'SentinelOne: 1-2 weeks. Rainforest: immediate after configuration.',
+      'SentinelOne: 1-2 semanas. Rainforest: imediato após configuração.',
   },
 ]

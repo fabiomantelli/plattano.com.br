@@ -6,32 +6,32 @@ export interface NavLink {
 
 export const mainNav: NavLink[] = [
   {
-    label: 'Solutions',
+    label: 'Soluções',
     href: '#solutions',
   },
   {
-    label: 'About',
+    label: 'Sobre',
     href: '/about',
   },
   {
-    label: 'Contact',
+    label: 'Contato',
     href: '/contact',
   },
 ]
 
 export const ctaButton = {
-  text: 'Get Started',
+  text: 'Fale Conosco',
   href: '/contact',
 }
 
 export const footerNav = {
   solutions: [
     {
-      label: 'Data Protection',
+      label: 'Proteção de Dados',
       href: '/solutions/data-protection',
     },
     {
-      label: 'Cybersecurity',
+      label: 'Cibersegurança',
       href: '/solutions/cybersecurity',
     },
     {
@@ -41,17 +41,17 @@ export const footerNav = {
   ],
   company: [
     {
-      label: 'About Us',
+      label: 'Sobre Nós',
       href: '/about',
     },
     {
-      label: 'Contact',
+      label: 'Contato',
       href: '/contact',
     },
   ],
   legal: [
     {
-      label: 'Privacy Policy',
+      label: 'Política de Privacidade',
       href: '/privacy',
     },
   ],

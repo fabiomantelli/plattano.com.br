@@ -16,7 +16,7 @@ export default function CTASection() {
           transition={{ duration: 0.5 }}
           className="text-3xl md:text-5xl font-bold text-white mb-6"
         >
-          Ready to Transform Your IT Infrastructure?
+          Pronto para Transformar Sua Infraestrutura de TI?
         </motion.h2>
 
         <motion.p
@@ -26,7 +26,7 @@ export default function CTASection() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-xl text-white/90 mb-12"
         >
-          Schedule a free consultation with our specialists. No commitment required.
+          Agende uma consulta gratuita com nossos especialistas. Sem compromisso.
         </motion.p>
 
         <motion.div
@@ -43,7 +43,7 @@ export default function CTASection() {
             className="bg-white text-primary-600 hover:bg-gray-100"
           >
             <Link href="/contact">
-              Schedule Free Consultation
+              Agendar Consulta Gratuita
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
           </Button>
@@ -56,7 +56,7 @@ export default function CTASection() {
           >
             <a href="tel:+13213138762">
               <Phone className="mr-2 h-5 w-5" />
-              Call: (321) 313-8762
+              Ligar: (321) 313-8762
             </a>
           </Button>
         </motion.div>
@@ -68,7 +68,7 @@ export default function CTASection() {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="mt-8 text-white/80 text-sm"
         >
-          Average response time: 4 hours
+          Tempo médio de resposta: 4 horas
         </motion.p>
       </div>
     </section>

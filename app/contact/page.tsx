@@ -2,24 +2,24 @@ import type { Metadata } from 'next'
 import ContactPageClient from './ContactPageClient'
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Plattano Technologies | IT Solutions Florida',
+  title: 'Fale Conosco | Plattano Technologies | Soluções de TI na Flórida',
   description:
-    'Get in touch with Plattano Technologies. Located in Orlando, Florida. Call (321) 313-8762 or email plattano@plattano.com. Average response time: 4 hours.',
+    'Entre em contato com a Plattano Technologies. Localizada em Orlando, Flórida. Ligue (321) 313-8762 ou envie e-mail para plattano@plattano.com. Tempo médio de resposta: 4 horas.',
   keywords: [
-    'contact Plattano',
-    'IT support Florida',
-    'Orlando IT services',
-    'IT consultation',
-    'enterprise IT contact',
-    'Plattano Technologies contact',
+    'contato Plattano',
+    'suporte de TI Flórida',
+    'serviços de TI Orlando',
+    'consultoria de TI',
+    'contato TI empresarial',
+    'contato Plattano Technologies',
   ],
   alternates: {
     canonical: 'https://plattano.com/contact',
   },
   openGraph: {
-    title: 'Contact Plattano Technologies | IT Solutions Florida',
+    title: 'Fale com a Plattano Technologies | Soluções de TI na Flórida',
     description:
-      'Get in touch with our IT experts. Located in Orlando, Florida. Response within 4 hours.',
+      'Entre em contato com nossos especialistas de TI. Localizada em Orlando, Flórida. Resposta em até 4 horas.',
     url: 'https://plattano.com/contact',
     siteName: 'Plattano Technologies',
     images: [
@@ -27,16 +27,16 @@ export const metadata: Metadata = {
         url: 'https://plattano.com/images/home/logo.webp',
         width: 1200,
         height: 630,
-        alt: 'Plattano Technologies Contact',
+        alt: 'Contato Plattano Technologies',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Contact Plattano Technologies',
-    description: 'Get in touch with our IT experts. Response within 4 hours.',
+    title: 'Fale com a Plattano Technologies',
+    description: 'Entre em contato com nossos especialistas de TI. Resposta em até 4 horas.',
   },
 }
 

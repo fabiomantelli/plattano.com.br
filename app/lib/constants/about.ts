@@ -2,38 +2,38 @@ export const companyInfo = {
   founded: '2018',
   location: 'Orlando, Florida',
   employees: '15+',
-  clients: '1,100+',
+  clients: '1.100+',
   mission:
-    'Protect and scale businesses through proven IT solutions and exceptional support.',
+    'Proteger e escalar empresas por meio de soluções de TI comprovadas e suporte excepcional.',
   vision:
-    'To be the most trusted IT partner for businesses in Florida and beyond.',
+    'Ser o parceiro de TI mais confiável para empresas na Flórida e além.',
 }
 
 export const values = [
   {
     icon: '🎯',
-    title: 'Excellence',
-    description: 'Certifications and expertise in every solution we deliver',
+    title: 'Excelência',
+    description: 'Certificações e expertise em cada solução que entregamos',
   },
   {
     icon: '🤝',
-    title: 'Partnership',
-    description: 'Long-term relationships built on trust and results',
+    title: 'Parceria',
+    description: 'Relacionamentos de longo prazo construídos com confiança e resultados',
   },
   {
     icon: '⚡',
-    title: 'Agility',
-    description: 'Fast response and efficient implementation',
+    title: 'Agilidade',
+    description: 'Resposta rápida e implementação eficiente',
   },
   {
     icon: '💡',
-    title: 'Innovation',
-    description: 'Always updated with the latest technologies',
+    title: 'Inovação',
+    description: 'Sempre atualizado com as tecnologias mais recentes',
   },
   {
     icon: '🛡️',
-    title: 'Trust',
-    description: 'Complete transparency in everything we do',
+    title: 'Confiança',
+    description: 'Transparência total em tudo o que fazemos',
   },
 ]
 
@@ -41,101 +41,101 @@ export const certifications = [
   {
     name: 'Veeam Gold Partner',
     badge: '🏆',
-    description: 'Maximum certification level',
+    description: 'Nível máximo de certificação',
   },
   {
     name: 'SentinelOne Authorized Partner',
     badge: '🥇',
-    description: 'Certified security experts',
+    description: 'Especialistas em segurança certificados',
   },
   {
     name: 'ExaGrid Certified Partner',
     badge: '⭐',
-    description: 'Storage specialists',
+    description: 'Especialistas em storage',
   },
   {
     name: 'Rainforest Partner',
     badge: '🌟',
-    description: 'Brand protection experts',
+    description: 'Especialistas em proteção de marca',
   },
 ]
 
 export const team = {
   engineers: '15+',
   certifications: '50+',
-  experience: '10+ years average',
-  languages: ['English', 'Portuguese'],
+  experience: 'Média de 10+ anos',
+  languages: ['Inglês', 'Português'],
 }
 
 export const timeline = [
   {
     year: '2010',
-    title: 'Company Founded',
-    description: 'Started with a vision to transform IT infrastructure in Florida',
+    title: 'Fundação da Empresa',
+    description: 'Iniciamos com a visão de transformar a infraestrutura de TI na Flórida',
   },
   {
     year: '2015',
     title: 'Veeam Gold Partner',
-    description: 'Achieved highest certification level with Veeam',
+    description: 'Conquistamos o nível máximo de certificação com a Veeam',
   },
   {
     year: '2018',
-    title: '100+ Clients',
-    description: 'Reached milestone of 100 protected businesses',
+    title: '100+ Clientes',
+    description: 'Alcançamos a marca de 100 empresas protegidas',
   },
   {
     year: '2020',
-    title: 'Expanded Services',
-    description: 'Added cybersecurity and cloud solutions',
+    title: 'Expansão de Serviços',
+    description: 'Adicionamos soluções de cibersegurança e cloud',
   },
   {
     year: '2023',
-    title: '500+ Clients',
-    description: 'Became one of the leading IT providers in Florida',
+    title: '500+ Clientes',
+    description: 'Nos tornamos um dos principais provedores de TI na Flórida',
   },
   {
     year: '2025',
-    title: 'Innovation Leader',
-    description: 'Launched Plattano Hot Cloud Storage',
+    title: 'Líder em Inovação',
+    description: 'Lançamento do Plattano Hot Cloud Storage',
   },
 ]
 
 export const stats = [
-  { value: '7+', label: 'Years in Business' },
-  { value: '1,100+', label: 'Protected Clients' },
-  { value: '15,000+', label: 'VMs Provisioned' },
-  { value: '50+', label: 'Certifications' },
+  { value: '7+', label: 'Anos de Mercado' },
+  { value: '1.100+', label: 'Clientes Protegidos' },
+  { value: '15.000+', label: 'VMs Provisionadas' },
+  { value: '50+', label: 'Certificações' },
 ]
 
 export const whyChooseUs = [
   {
     icon: '🏆',
-    title: 'Proven Expertise',
-    description: '7+ years protecting critical business data',
+    title: 'Expertise Comprovada',
+    description: '7+ anos protegendo dados críticos de empresas',
   },
   {
     icon: '📍',
-    title: 'Local Support',
-    description: 'Based in Florida with multilingual team',
+    title: 'Suporte Local',
+    description: 'Baseados na Flórida com equipe multilíngue',
   },
   {
     icon: '⚡',
-    title: '4-Hour SLA',
-    description: 'Fast response when you need it most',
+    title: 'SLA de 4 Horas',
+    description: 'Resposta rápida quando você mais precisa',
   },
   {
     icon: '🛡️',
-    title: 'Zero Data Loss',
-    description: '0 data lost or encrypted in managed clients',
+    title: 'Zero Perda de Dados',
+    description: '0 dados perdidos ou criptografados em clientes gerenciados',
   },
   {
     icon: '🔒',
-    title: 'Zero Attacks',
-    description: '0 successful attacks on managed clients',
+    title: 'Zero Ataques',
+    description: '0 ataques bem-sucedidos em clientes gerenciados',
   },
   {
     icon: '🎓',
-    title: '50+ Certifications',
-    description: 'Team always updated with latest certifications',
+    title: '50+ Certificações',
+    description: 'Equipe sempre atualizada com as certificações mais recentes',
   },
 ]

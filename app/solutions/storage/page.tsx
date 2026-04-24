@@ -2,25 +2,25 @@ import type { Metadata } from 'next'
 import StoragePageClient from './StoragePageClient'
 
 export const metadata: Metadata = {
-  title: 'Storage Solutions | ExaGrid & Hot Cloud Storage | Plattano Technologies',
+  title: 'Soluções de Storage | ExaGrid & Hot Cloud Storage | Plattano Technologies',
   description:
-    'Enterprise storage solutions with ExaGrid and Plattano Hot Cloud Storage. Reduce storage costs up to 85% with S3-compatible object storage and deduplication.',
+    'Soluções de storage empresarial com ExaGrid e Plattano Hot Cloud Storage. Reduza os custos de storage em até 85% com object storage compatível com S3 e deduplicação.',
   keywords: [
-    'ExaGrid partner',
+    'parceiro ExaGrid',
     'cloud storage',
     'object storage',
-    'S3 storage',
-    'data deduplication',
-    'storage solutions',
-    'enterprise storage',
+    'storage S3',
+    'deduplicação de dados',
+    'soluções de storage',
+    'storage empresarial',
   ],
   alternates: {
     canonical: 'https://plattano.com/solutions/storage',
   },
   openGraph: {
-    title: 'Storage Solutions | ExaGrid & Hot Cloud Storage | Plattano',
+    title: 'Soluções de Storage | ExaGrid & Hot Cloud Storage | Plattano',
     description:
-      'Enterprise storage solutions. Reduce storage costs up to 85% with S3-compatible object storage.',
+      'Soluções de storage empresarial. Reduza os custos de storage em até 85% com object storage compatível com S3.',
     url: 'https://plattano.com/solutions/storage',
     siteName: 'Plattano Technologies',
     images: [
@@ -28,16 +28,16 @@ export const metadata: Metadata = {
         url: 'https://plattano.com/images/home/logo.webp',
         width: 1200,
         height: 630,
-        alt: 'Storage Solutions',
+        alt: 'Soluções de Storage',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Storage Solutions | ExaGrid & Hot Cloud Storage',
-    description: 'Enterprise storage solutions. Reduce storage costs up to 85%.',
+    title: 'Soluções de Storage | ExaGrid & Hot Cloud Storage',
+    description: 'Soluções de storage empresarial. Reduza os custos de storage em até 85%.',
   },
 }
 

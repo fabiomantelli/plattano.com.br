@@ -1,8 +1,8 @@
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Plattano',
-  description: 'Plattano privacy policy and data protection information.',
+  title: 'Política de Privacidade | Plattano',
+  description: 'Política de privacidade e informações de proteção de dados da Plattano.',
 }
 
 export default function PrivacyPage() {
@@ -10,124 +10,124 @@ export default function PrivacyPage() {
     <div className="min-h-screen bg-white">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8">
-          Privacy Policy
+          Política de Privacidade
         </h1>
-        
+
         <div className="prose prose-lg max-w-none">
           <p className="text-gray-600 mb-8">
-            Last updated: November 26, 2025
+            Última atualização: 26 de novembro de 2025
           </p>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Information We Collect</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">1. Informações que Coletamos</h2>
             <p className="text-gray-700 mb-4">
-              We collect information that you provide directly to us, including:
+              Coletamos informações que você nos fornece diretamente, incluindo:
             </p>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
-              <li>Name and contact information (email, phone, address)</li>
-              <li>Company information</li>
-              <li>Communication preferences</li>
-              <li>Information about your IT infrastructure needs</li>
+              <li>Nome e informações de contato (e-mail, telefone, endereço)</li>
+              <li>Informações da empresa</li>
+              <li>Preferências de comunicação</li>
+              <li>Informações sobre suas necessidades de infraestrutura de TI</li>
             </ul>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">2. How We Use Your Information</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">2. Como Usamos Suas Informações</h2>
             <p className="text-gray-700 mb-4">
-              We use the information we collect to:
+              Utilizamos as informações coletadas para:
             </p>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
-              <li>Respond to your inquiries and provide customer support</li>
-              <li>Send you technical and service updates</li>
-              <li>Provide information about our products and services</li>
-              <li>Improve our website and services</li>
-              <li>Comply with legal obligations</li>
+              <li>Responder às suas solicitações e fornecer suporte ao cliente</li>
+              <li>Enviar atualizações técnicas e de serviços</li>
+              <li>Fornecer informações sobre nossos produtos e serviços</li>
+              <li>Melhorar nosso site e serviços</li>
+              <li>Cumprir obrigações legais</li>
             </ul>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">3. Information Sharing</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">3. Compartilhamento de Informações</h2>
             <p className="text-gray-700 mb-4">
-              We do not sell, trade, or rent your personal information to third parties. We may share your information with:
+              Não vendemos, negociamos nem alugamos suas informações pessoais a terceiros. Podemos compartilhar suas informações com:
             </p>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
-              <li>Service providers who assist in our operations</li>
-              <li>Technology partners (Veeam, SentinelOne, ExaGrid) when necessary for service delivery</li>
-              <li>Legal authorities when required by law</li>
+              <li>Prestadores de serviços que auxiliam em nossas operações</li>
+              <li>Parceiros tecnológicos (Veeam, SentinelOne, ExaGrid) quando necessário para a prestação de serviços</li>
+              <li>Autoridades legais quando exigido por lei</li>
             </ul>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">4. Data Security</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">4. Segurança dos Dados</h2>
             <p className="text-gray-700">
-              We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. All data transmission is encrypted using SSL/TLS protocols.
+              Implementamos medidas técnicas e organizacionais adequadas para proteger suas informações pessoais contra acesso não autorizado, alteração, divulgação ou destruição. Toda transmissão de dados é criptografada com protocolos SSL/TLS.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">5. Your Rights</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">5. Seus Direitos</h2>
             <p className="text-gray-700 mb-4">
-              You have the right to:
+              Você tem o direito de:
             </p>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
-              <li>Access your personal information</li>
-              <li>Correct inaccurate information</li>
-              <li>Request deletion of your information</li>
-              <li>Opt-out of marketing communications</li>
-              <li>Object to processing of your information</li>
+              <li>Acessar suas informações pessoais</li>
+              <li>Corrigir informações imprecisas</li>
+              <li>Solicitar a exclusão de suas informações</li>
+              <li>Cancelar o recebimento de comunicações de marketing</li>
+              <li>Opor-se ao processamento de suas informações</li>
             </ul>
           </section>
 
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">6. Cookies</h2>
             <p className="text-gray-700">
-              We use cookies and similar tracking technologies to improve your browsing experience, analyze site traffic, and understand where our visitors are coming from. You can control cookies through your browser settings.
+              Utilizamos cookies e tecnologias de rastreamento semelhantes para melhorar sua experiência de navegação, analisar o tráfego do site e entender a origem dos nossos visitantes. Você pode controlar os cookies por meio das configurações do seu navegador.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">7. Data Retention</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">7. Retenção de Dados</h2>
             <p className="text-gray-700">
-              We retain your personal information for as long as necessary to fulfill the purposes outlined in this privacy policy, unless a longer retention period is required by law.
+              Mantemos suas informações pessoais pelo tempo necessário para cumprir os objetivos descritos nesta política de privacidade, salvo quando um período de retenção maior for exigido por lei.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Children&apos;s Privacy</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">8. Privacidade de Menores</h2>
             <p className="text-gray-700">
-              Our services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children.
+              Nossos serviços não são destinados a pessoas com menos de 18 anos. Não coletamos intencionalmente informações pessoais de crianças.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">9. Changes to This Policy</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">9. Alterações nesta Política</h2>
             <p className="text-gray-700">
-              We may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the &quot;Last updated&quot; date.
+              Podemos atualizar esta política de privacidade periodicamente. Notificaremos sobre quaisquer alterações publicando a nova política nesta página e atualizando a data de &quot;Última atualização&quot;.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">10. Contact Us</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">10. Fale Conosco</h2>
             <p className="text-gray-700 mb-4">
-              If you have any questions about this privacy policy or our data practices, please contact us:
+              Se você tiver alguma dúvida sobre esta política de privacidade ou nossas práticas de dados, entre em contato:
             </p>
             <div className="bg-gray-50 rounded-lg p-6">
               <p className="text-gray-700">
                 <strong>Plattano</strong><br />
                 7345 W Sand Lake Rd Ste 210<br />
                 Orlando, FL 32819<br />
-                USA<br />
+                EUA<br />
                 <br />
-                Email: plattano@plattano.com<br />
-                Phone: (321) 313-8762
+                E-mail: plattano@plattano.com<br />
+                Telefone: (321) 313-8762
               </p>
             </div>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">11. Compliance</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">11. Conformidade</h2>
             <p className="text-gray-700">
-              We comply with applicable data protection laws, including GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act).
+              Cumprimos as leis de proteção de dados aplicáveis, incluindo o GDPR (Regulamento Geral de Proteção de Dados) e o CCPA (Lei de Privacidade do Consumidor da Califórnia).
             </p>
           </section>
         </div>

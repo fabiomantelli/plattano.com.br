@@ -12,10 +12,10 @@ export default function PartnersSection() {
   ]
 
   const certifications = [
-    { icon: Award, text: 'Veeam Certified Engineers' },
-    { icon: Shield, text: 'Security Certified' },
-    { icon: Star, text: '5-Star Rated' },
-    { icon: TrendingUp, text: 'Proven ROI' },
+    { icon: Award, text: 'Engenheiros Certificados Veeam' },
+    { icon: Shield, text: 'Certificação em Segurança' },
+    { icon: Star, text: 'Avaliação 5 Estrelas' },
+    { icon: TrendingUp, text: 'ROI Comprovado' },
   ]
 
   return (
@@ -30,7 +30,7 @@ export default function PartnersSection() {
             transition={{ duration: 0.5 }}
             className="text-3xl md:text-4xl font-bold text-gray-900 mb-4"
           >
-            Trusted Partners
+            Parceiros Certificados
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -39,7 +39,7 @@ export default function PartnersSection() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-lg text-gray-600"
           >
-            Certified by industry-leading technology providers
+            Certificados pelos principais provedores de tecnologia do mercado
           </motion.p>
         </div>
 

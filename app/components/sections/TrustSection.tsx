@@ -8,32 +8,32 @@ export default function TrustSection() {
     {
       icon: Shield,
       value: '0',
-      label: 'Data Loss Events',
-      description: 'Zero data lost or encrypted',
+      label: 'Incidentes de Perda de Dados',
+      description: 'Zero dados perdidos ou criptografados',
       color: 'text-green-600',
       bgColor: 'bg-green-50',
     },
     {
       icon: Lock,
       value: '0',
-      label: 'Successful Attacks',
-      description: 'On managed clients',
+      label: 'Ataques Bem-sucedidos',
+      description: 'Em clientes gerenciados',
       color: 'text-green-600',
       bgColor: 'bg-green-50',
     },
     {
       icon: Award,
       value: '50+',
-      label: 'Certifications',
-      description: 'Industry-leading expertise',
+      label: 'Certificações',
+      description: 'Expertise reconhecida pelo mercado',
       color: 'text-primary-600',
       bgColor: 'bg-primary-50',
     },
     {
       icon: CheckCircle,
-      value: '6,000+',
-      label: 'Project Hours',
-      description: 'Delivered successfully',
+      value: '6.000+',
+      label: 'Horas de Projeto',
+      description: 'Entregues com sucesso',
       color: 'text-primary-600',
       bgColor: 'bg-primary-50',
     },
@@ -51,10 +51,10 @@ export default function TrustSection() {
           className="text-center mb-12"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Your Data is Safe with Us
+            Seus Dados Estão Seguros Conosco
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Track record that speaks for itself
+            Um histórico que fala por si mesmo
           </p>
         </motion.div>
 
@@ -106,7 +106,7 @@ export default function TrustSection() {
           className="mt-12 text-center"
         >
           <p className="text-lg text-gray-700 font-medium">
-            Join 1,100+ businesses that trust Plattano with their critical data
+            Junte-se a mais de 1.100 empresas que confiam à Plattano seus dados críticos
           </p>
         </motion.div>
       </div>

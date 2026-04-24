@@ -15,132 +15,132 @@ export interface StorageSolution {
 export const exagrid: StorageSolution = {
   id: 'exagrid',
   name: 'ExaGrid',
-  tagline: 'Backup Storage Appliance',
+  tagline: 'Appliance de Backup Storage',
   description:
-    'Market-leading backup storage appliance with deduplication. Up to 95% data reduction.',
+    'Appliance de backup storage líder de mercado com deduplicação. Até 95% de redução de dados.',
   features: [
     {
       icon: '🗜️',
-      title: 'Advanced Deduplication',
-      description: 'Up to 95% reduction',
+      title: 'Deduplicação Avançada',
+      description: 'Até 95% de redução',
     },
     {
       icon: '⚡',
-      title: 'Ultra-Fast Performance',
-      description: 'Fastest backup/restore',
+      title: 'Performance Ultra-Rápida',
+      description: 'Backup/restore mais rápido do mercado',
     },
     {
       icon: '📈',
-      title: 'Linear Scalability',
-      description: 'Add appliances as needed',
+      title: 'Escalabilidade Linear',
+      description: 'Adicione appliances conforme a necessidade',
     },
     {
       icon: '🔒',
       title: 'Retention Lock',
-      description: 'Ransomware protection',
+      description: 'Proteção contra ransomware',
     },
     {
       icon: '🤝',
-      title: 'Native Integration',
+      title: 'Integração Nativa',
       description: 'Veeam, Commvault, Veritas',
     },
     {
       icon: '🎯',
-      title: 'Tiered Storage',
-      description: 'Landing zone + repository',
+      title: 'Storage em Camadas',
+      description: 'Landing zone + repositório',
     },
   ],
   idealFor: [
-    'Large Veeam environments (>10TB)',
-    'Need for performance',
-    'Predictable growth',
-    'On-premises infrastructure',
+    'Grandes ambientes Veeam (>10TB)',
+    'Necessidade de alta performance',
+    'Crescimento previsível',
+    'Infraestrutura on-premises',
   ],
-  pricing: 'Starting at $X/TB/month',
+  pricing: 'A partir de $X/TB/mês',
 }
 
 export const plattanoHot: StorageSolution = {
   id: 'plattano-hot',
   name: 'Plattano Hot Cloud Storage',
-  tagline: 'S3-Compatible Cloud Storage',
+  tagline: 'Cloud Storage Compatível com S3',
   description:
-    'S3-compatible cloud storage with integrated ransomware protection. Transparent pricing.',
+    'Cloud storage compatível com S3 e proteção contra ransomware integrada. Preços transparentes.',
   features: [
     {
       icon: '☁️',
-      title: 'S3 Compatible',
-      description: 'Drop-in replacement',
+      title: 'Compatível com S3',
+      description: 'Substituição direta (drop-in)',
     },
     {
       icon: '🛡️',
-      title: 'Ransomware Protection',
-      description: 'Integrated immutability',
+      title: 'Proteção contra Ransomware',
+      description: 'Imutabilidade integrada',
     },
     {
       icon: '💰',
-      title: 'Transparent Pricing',
-      description: 'No surprises',
+      title: 'Preços Transparentes',
+      description: 'Sem surpresas',
     },
     {
       icon: '🚀',
-      title: 'Guaranteed Performance',
-      description: '99.9% SLA',
+      title: 'Performance Garantida',
+      description: 'SLA de 99,9%',
     },
     {
       icon: '🌐',
-      title: 'Multi-Region',
-      description: 'Global availability',
+      title: 'Multi-Região',
+      description: 'Disponibilidade global',
     },
     {
       icon: '📊',
-      title: 'Usage Analytics',
-      description: 'Real-time monitoring',
+      title: 'Analytics de Uso',
+      description: 'Monitoramento em tempo real',
     },
   ],
   idealFor: [
-    'Cloud-first workloads',
-    'Off-site backup',
-    'Unpredictable growth',
-    'No CAPEX requirement',
+    'Workloads cloud-first',
+    'Backup off-site',
+    'Crescimento imprevisível',
+    'Sem necessidade de CAPEX',
   ],
-  pricing: '$X/TB/month (flat rate)',
+  pricing: '$X/TB/mês (tarifa flat)',
 }
 
 export const storageStats = [
-  { value: '40%', label: 'Annual data growth' },
-  { value: '60%', label: 'Potential savings with deduplication' },
-  { value: '3x', label: 'Faster backups with ExaGrid' },
-  { value: '99.9%', label: 'Uptime SLA' },
+  { value: '40%', label: 'Crescimento anual de dados' },
+  { value: '60%', label: 'Economia potencial com deduplicação' },
+  { value: '3x', label: 'Backups mais rápidos com ExaGrid' },
+  { value: '99,9%', label: 'SLA de disponibilidade' },
 ]
 
 export const comparisonTable = [
   {
-    criterion: 'Deployment',
+    criterion: 'Implantação',
     exagrid: 'On-premises',
     plattanoHot: 'Cloud',
   },
   {
     criterion: 'CAPEX',
-    exagrid: 'Yes',
-    plattanoHot: 'No',
+    exagrid: 'Sim',
+    plattanoHot: 'Não',
   },
   {
-    criterion: 'Scalability',
+    criterion: 'Escalabilidade',
     exagrid: 'Linear',
-    plattanoHot: 'Unlimited',
+    plattanoHot: 'Ilimitada',
   },
   {
     criterion: 'Performance',
-    exagrid: 'Ultra-fast',
-    plattanoHot: 'Fast',
+    exagrid: 'Ultra-rápida',
+    plattanoHot: 'Rápida',
   },
   {
-    criterion: 'Maintenance',
-    exagrid: 'Minimal',
+    criterion: 'Manutenção',
+    exagrid: 'Mínima',
     plattanoHot: 'Zero',
   },
   {
-    criterion: 'Ideal for',
+    criterion: 'Ideal para',
     exagrid: '>10TB on-prem',
     plattanoHot: 'Cloud-first',
   },
@@ -148,59 +148,59 @@ export const comparisonTable = [
 
 export const caseStudies = [
   {
-    industry: 'Manufacturing',
-    challenge: '50TB backups, 30% annual growth',
+    industry: 'Manufatura',
+    challenge: 'Backups de 50TB, crescimento anual de 30%',
     solution: 'ExaGrid + Veeam',
-    result: '60% savings, 3x faster backup',
+    result: '60% de economia, backup 3x mais rápido',
   },
   {
-    industry: 'SaaS Startup',
-    challenge: 'Expensive cloud storage, unpredictable growth',
+    industry: 'Startup SaaS',
+    challenge: 'Cloud storage caro, crescimento imprevisível',
     solution: 'Plattano Hot Storage',
-    result: '40% savings, guaranteed scalability',
+    result: '40% de economia, escalabilidade garantida',
   },
   {
     industry: 'Enterprise',
-    challenge: 'Hybrid (on-prem + cloud)',
+    challenge: 'Híbrido (on-prem + cloud)',
     solution: 'ExaGrid (on-prem) + Plattano Hot (cloud)',
-    result: 'Best of both worlds, cross-site DR',
+    result: 'O melhor dos dois mundos, DR entre sites',
   },
 ]
 
 export const faqs = [
   {
-    question: 'Does ExaGrid work with Veeam?',
-    answer: 'Yes. Native and certified integration.',
+    question: 'O ExaGrid funciona com o Veeam?',
+    answer: 'Sim. Integração nativa e certificada.',
   },
   {
-    question: 'Is Plattano Hot S3 compatible?',
-    answer: 'Yes. 100% compatible with S3 API.',
+    question: 'O Plattano Hot é compatível com S3?',
+    answer: 'Sim. 100% compatível com a API S3.',
   },
   {
-    question: 'What is the cost of ExaGrid?',
-    answer: 'Depends on the model. Starting at $X for 10TB.',
+    question: 'Qual é o custo do ExaGrid?',
+    answer: 'Depende do modelo. A partir de $X para 10TB.',
   },
   {
-    question: 'Does Plattano Hot have lock-in?',
-    answer: 'No. Standard S3 API, easy migration.',
+    question: 'O Plattano Hot tem lock-in?',
+    answer: 'Não. API S3 padrão, migração facilitada.',
   },
   {
-    question: 'Do you offer POC?',
-    answer: 'Yes. Free 30-day POC for both solutions.',
+    question: 'Vocês oferecem POC?',
+    answer: 'Sim. POC gratuito de 30 dias para ambas as soluções.',
   },
   {
-    question: 'Can I use both together?',
+    question: 'Posso usar os dois juntos?',
     answer:
-      'Yes. Hybrid architecture with ExaGrid on-prem and Plattano Hot for cloud/DR.',
+      'Sim. Arquitetura híbrida com ExaGrid on-prem e Plattano Hot para cloud/DR.',
   },
 ]
 
 export const savingsCalculator = {
-  title: 'Calculate Your Savings',
-  description: 'See how much you can save with intelligent storage',
+  title: 'Calcule Sua Economia',
+  description: 'Veja quanto você pode economizar com storage inteligente',
   inputs: [
-    { label: 'Data volume (TB)', placeholder: '50' },
-    { label: 'Annual growth (%)', placeholder: '30' },
-    { label: 'Current cost ($/TB)', placeholder: '100' },
+    { label: 'Volume de dados (TB)', placeholder: '50' },
+    { label: 'Crescimento anual (%)', placeholder: '30' },
+    { label: 'Custo atual ($/TB)', placeholder: '100' },
   ],
 }

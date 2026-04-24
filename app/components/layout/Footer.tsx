@@ -15,8 +15,8 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="text-2xl font-bold text-white mb-4">Plattano Technologies</div>
             <p className="text-gray-400 mb-6 max-w-md">
-              Leading provider of enterprise IT solutions in Florida.
-              Specializing in backup, storage, and cybersecurity solutions.
+              Provedor líder de soluções de TI empresarial na Flórida.
+              Especialistas em backup, storage e cibersegurança.
             </p>
             <div className="space-y-3">
               <a
@@ -42,7 +42,7 @@ export default function Footer() {
 
           {/* Solutions Links */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Solutions</h3>
+            <h3 className="text-white font-semibold mb-4">Soluções</h3>
             <ul className="space-y-2">
               {footerNav.solutions.map((link) => (
                 <li key={link.href}>
@@ -59,7 +59,7 @@ export default function Footer() {
 
           {/* Company Links */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Company</h3>
+            <h3 className="text-white font-semibold mb-4">Empresa</h3>
             <ul className="space-y-2">
               {footerNav.company.map((link) => (
                 <li key={link.href}>
@@ -79,7 +79,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="flex items-center space-x-6">
-              <div className="text-sm text-gray-500">Certified Partner:</div>
+              <div className="text-sm text-gray-500">Parceiro Certificado:</div>
               <div className="flex items-center space-x-4">
                 <span className="text-xs text-gray-600 px-3 py-1 bg-gray-800 rounded hover:bg-gray-700 transition-colors">
                   Veeam
@@ -111,7 +111,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-8 pt-8 border-t border-gray-800 text-center">
           <p className="text-sm text-gray-500">
-            © {currentYear} Plattano. All rights reserved.
+            © {currentYear} Plattano. Todos os direitos reservados.
           </p>
         </div>
       </div>

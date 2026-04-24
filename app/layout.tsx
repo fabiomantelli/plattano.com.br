@@ -18,22 +18,22 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://plattano.com'),
   title: {
-    default: 'Plattano | Enterprise IT Solutions in Florida',
+    default: 'Plattano | Soluções de TI Empresarial na Flórida',
     template: '%s | Plattano',
   },
   description:
-    'Leading provider of backup, storage, and cybersecurity solutions in Florida. Veeam, ExaGrid, Wasabi, SentinelOne certified partner.',
+    'Provedor líder de soluções de backup, storage e cibersegurança na Flórida. Parceiro certificado Veeam, ExaGrid e SentinelOne.',
   keywords: [
-    'IT solutions Florida',
-    'Veeam partner',
-    'backup solutions',
-    'cybersecurity',
-    'data protection',
+    'soluções de TI Flórida',
+    'parceiro Veeam',
+    'soluções de backup',
+    'cibersegurança',
+    'proteção de dados',
     'cloud storage',
   ],
   openGraph: {
-    title: 'Plattano | Enterprise IT Solutions',
-    description: 'Transform your IT infrastructure with proven solutions',
+    title: 'Plattano | Soluções de TI Empresarial',
+    description: 'Transforme sua infraestrutura de TI com soluções comprovadas',
     url: 'https://plattano.com',
     siteName: 'Plattano Technologies',
     images: [
@@ -44,13 +44,13 @@ export const metadata: Metadata = {
         alt: 'Plattano Technologies',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Plattano | Enterprise IT Solutions',
-    description: 'Transform your IT infrastructure with proven solutions',
+    title: 'Plattano | Soluções de TI Empresarial',
+    description: 'Transforme sua infraestrutura de TI com soluções comprovadas',
     images: ['/images/home/logo.webp'],
   },
   robots: {
@@ -75,7 +75,7 @@ export default function RootLayout({
   const websiteSchema = generateWebSiteSchema()
 
   return (
-    <html lang="en" className={inter.variable}>
+    <html lang="pt-BR" className={inter.variable}>
       <body className={inter.className}>
         <StructuredData data={[organizationSchema, websiteSchema]} />
         <Navigation />

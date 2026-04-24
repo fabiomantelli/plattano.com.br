@@ -94,7 +94,7 @@ export default function Navigation() {
               type="button"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               className="md:hidden p-2 rounded-md text-gray-700 hover:text-primary-600 hover:bg-gray-100 transition-colors"
-              aria-label={isMobileMenuOpen ? 'Close menu' : 'Open menu'}
+              aria-label={isMobileMenuOpen ? 'Fechar menu' : 'Abrir menu'}
             >
               {isMobileMenuOpen ? (
                 <X className="h-6 w-6" />
@@ -123,7 +123,7 @@ export default function Navigation() {
               <button
                 onClick={() => setIsMobileMenuOpen(false)}
                 className="p-2 rounded-lg hover:bg-gray-100 transition-colors"
-                aria-label="Close menu"
+                aria-label="Fechar menu"
               >
                 <X className="h-6 w-6 text-gray-600" />
               </button>

@@ -2,27 +2,27 @@ import type { Metadata } from 'next'
 import DataProtectionPageClient from './DataProtectionPageClient'
 
 export const metadata: Metadata = {
-  title: 'Data Protection Solutions | Veeam Backup & Recovery | Plattano Technologies',
+  title: 'Soluções de Proteção de Dados | Veeam Backup & Recovery | Plattano Technologies',
   description:
-    'Veeam Gold Partner. Complete data protection with backup, recovery, and ransomware protection for physical, virtual, and cloud environments. Free trial available.',
+    'Veeam Gold Partner. Proteção de dados completa com backup, recuperação e proteção contra ransomware para ambientes físicos, virtuais e cloud. Trial gratuito disponível.',
   keywords: [
-    'Veeam partner',
-    'data protection',
-    'backup solutions',
+    'parceiro Veeam',
+    'proteção de dados',
+    'soluções de backup',
     'disaster recovery',
-    'Veeam backup',
-    'ransomware protection',
-    'cloud backup',
-    'data recovery',
-    'enterprise backup',
+    'backup Veeam',
+    'proteção contra ransomware',
+    'backup cloud',
+    'recuperação de dados',
+    'backup empresarial',
   ],
   alternates: {
     canonical: 'https://plattano.com/solutions/data-protection',
   },
   openGraph: {
-    title: 'Data Protection Solutions | Veeam Backup & Recovery | Plattano',
+    title: 'Soluções de Proteção de Dados | Veeam Backup & Recovery | Plattano',
     description:
-      'Veeam Gold Partner. Complete data protection with backup, recovery, and ransomware protection. Free trial.',
+      'Veeam Gold Partner. Proteção de dados completa com backup, recuperação e proteção contra ransomware. Trial gratuito.',
     url: 'https://plattano.com/solutions/data-protection',
     siteName: 'Plattano Technologies',
     images: [
@@ -30,16 +30,16 @@ export const metadata: Metadata = {
         url: 'https://plattano.com/images/home/logo.webp',
         width: 1200,
         height: 630,
-        alt: 'Data Protection Solutions',
+        alt: 'Soluções de Proteção de Dados',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Data Protection Solutions | Veeam Backup & Recovery',
-    description: 'Complete data protection with Veeam. Veeam Gold Partner.',
+    title: 'Soluções de Proteção de Dados | Veeam Backup & Recovery',
+    description: 'Proteção de dados completa com Veeam. Veeam Gold Partner.',
   },
 }
 

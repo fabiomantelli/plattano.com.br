@@ -2,24 +2,24 @@ import type { Metadata } from 'next'
 import AboutPageClient from './AboutPageClient'
 
 export const metadata: Metadata = {
-  title: 'About Us | Plattano Technologies | Trusted IT Partner in Florida',
+  title: 'Sobre Nós | Plattano Technologies | Parceiro de TI Confiável na Flórida',
   description:
-    'Learn about Plattano Technologies, your trusted IT partner in Florida. 7+ years protecting 1,100+ businesses with proven backup, storage, and cybersecurity solutions.',
+    'Conheça a Plattano Technologies, seu parceiro de TI confiável na Flórida. 7+ anos protegendo mais de 1.100 empresas com soluções comprovadas de backup, storage e cibersegurança.',
   keywords: [
-    'IT company Florida',
-    'Orlando IT services',
-    'enterprise IT solutions',
-    'data protection experts',
-    'cybersecurity specialists',
-    'Florida IT partner',
+    'empresa de TI Flórida',
+    'serviços de TI Orlando',
+    'soluções de TI empresarial',
+    'especialistas em proteção de dados',
+    'especialistas em cibersegurança',
+    'parceiro de TI Flórida',
   ],
   alternates: {
     canonical: 'https://plattano.com/about',
   },
   openGraph: {
-    title: 'About Plattano Technologies | Trusted IT Partner in Florida',
+    title: 'Sobre a Plattano Technologies | Parceiro de TI Confiável na Flórida',
     description:
-      '7+ years protecting 1,100+ businesses with proven IT solutions. Based in Orlando, Florida.',
+      '7+ anos protegendo mais de 1.100 empresas com soluções de TI comprovadas. Baseados em Orlando, Flórida.',
     url: 'https://plattano.com/about',
     siteName: 'Plattano Technologies',
     images: [
@@ -30,13 +30,13 @@ export const metadata: Metadata = {
         alt: 'Plattano Technologies',
       },
     ],
-    locale: 'en_US',
+    locale: 'pt_BR',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'About Plattano Technologies | Trusted IT Partner',
-    description: '7+ years protecting 1,100+ businesses with proven IT solutions.',
+    title: 'Sobre a Plattano Technologies | Parceiro de TI Confiável',
+    description: '7+ anos protegendo mais de 1.100 empresas com soluções de TI comprovadas.',
   },
 }
 

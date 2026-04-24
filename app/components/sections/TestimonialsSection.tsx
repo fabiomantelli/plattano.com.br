@@ -31,7 +31,7 @@ export default function TestimonialsSection() {
             transition={{ duration: 0.5 }}
             className="text-3xl md:text-4xl font-bold text-gray-900 mb-4"
           >
-            What Our Clients Say
+            O Que Nossos Clientes Dizem
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -40,7 +40,7 @@ export default function TestimonialsSection() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-lg text-gray-600"
           >
-            Real results from real businesses
+            Resultados reais de empresas reais
           </motion.p>
         </div>
 
@@ -70,7 +70,7 @@ export default function TestimonialsSection() {
                     {currentTestimonial.author}
                   </div>
                   <div className="text-gray-600 text-sm">
-                    {currentTestimonial.role} at {currentTestimonial.company}
+                    {currentTestimonial.role} na {currentTestimonial.company}
                   </div>
                 </div>
               </div>
@@ -83,7 +83,7 @@ export default function TestimonialsSection() {
               variant="outline"
               size="sm"
               onClick={prevTestimonial}
-              aria-label="Previous testimonial"
+              aria-label="Depoimento anterior"
             >
               <ChevronLeft className="h-5 w-5" />
             </Button>
@@ -99,7 +99,7 @@ export default function TestimonialsSection() {
                       ? 'bg-primary-600 w-8'
                       : 'bg-gray-300 hover:bg-gray-400'
                   }`}
-                  aria-label={`Go to testimonial ${index + 1}`}
+                  aria-label={`Ir para o depoimento ${index + 1}`}
                 />
               ))}
             </div>
@@ -108,7 +108,7 @@ export default function TestimonialsSection() {
               variant="outline"
               size="sm"
               onClick={nextTestimonial}
-              aria-label="Next testimonial"
+              aria-label="Próximo depoimento"
             >
               <ChevronRight className="h-5 w-5" />
             </Button>

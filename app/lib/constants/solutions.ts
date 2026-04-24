@@ -11,25 +11,25 @@ export const solutions: Solution[] = [
   {
     id: 'data-protection',
     icon: '💾',
-    title: 'Data Protection',
-    description: 'Protect your data against ransomware, failures and disasters. Recovery in minutes, not hours.',
-    stat: '99.9% uptime',
+    title: 'Proteção de Dados',
+    description: 'Proteja seus dados contra ransomware, falhas e desastres. Recuperação em minutos, não horas.',
+    stat: '99,9% de disponibilidade',
     href: '/solutions/data-protection',
   },
   {
     id: 'cybersecurity',
     icon: '🛡️',
-    title: 'Cybersecurity',
-    description: 'AI-powered defense against threats. Automatic detection and response 24/7.',
-    stat: '99.8% threat blocking',
+    title: 'Cibersegurança',
+    description: 'Defesa com IA contra ameaças. Detecção e resposta automáticas 24/7.',
+    stat: '99,8% de bloqueio de ameaças',
     href: '/solutions/cybersecurity',
   },
   {
     id: 'storage',
     icon: '📦',
     title: 'Storage',
-    description: 'Scalable storage with deduplication. Save up to 60% on costs.',
-    stat: 'Up to 60% savings',
+    description: 'Storage escalável com deduplicação. Economize até 60% nos custos.',
+    stat: 'Até 60% de economia',
     href: '/solutions/storage',
   },
 ]
@@ -52,9 +52,9 @@ export interface Stat {
 }
 
 export const stats: Stat[] = [
-  { value: '15+', label: 'Years of Experience' },
-  { value: '500+', label: 'Protected Clients' },
-  { value: '40%', label: 'Average Savings' },
+  { value: '15+', label: 'Anos de Experiência' },
+  { value: '500+', label: 'Clientes Protegidos' },
+  { value: '40%', label: 'Economia Média' },
 ]
 
 export interface Testimonial {
@@ -66,21 +66,21 @@ export interface Testimonial {
 
 export const testimonials: Testimonial[] = [
   {
-    quote: 'Plattano helped us reduce backup costs by 40% and improve our security. Extremely professional team.',
+    quote: 'A Plattano nos ajudou a reduzir os custos de backup em 40% e melhorar nossa segurança. Equipe extremamente profissional.',
     author: 'John Smith',
     role: 'CTO',
     company: 'Tech Corp',
   },
   {
-    quote: 'The implementation was smooth and the support is outstanding. We feel much more secure now.',
+    quote: 'A implementação foi tranquila e o suporte é excelente. Nos sentimos muito mais seguros agora.',
     author: 'Maria Garcia',
-    role: 'IT Director',
+    role: 'Diretora de TI',
     company: 'Healthcare Plus',
   },
   {
-    quote: 'Best decision we made for our IT infrastructure. ROI was achieved in less than 6 months.',
+    quote: 'Melhor decisão que tomamos para nossa infraestrutura de TI. O ROI foi alcançado em menos de 6 meses.',
     author: 'David Chen',
-    role: 'VP of Operations',
+    role: 'VP de Operações',
     company: 'Finance Solutions',
   },
 ]

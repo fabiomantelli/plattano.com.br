@@ -1,23 +1,23 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'About Us',
+  title: 'Sobre Nós',
   description:
-    'Learn about Plattano Technologies - Your trusted IT partner in Florida since 2018. Certified engineers, proven solutions, exceptional service.',
+    'Conheça a Plattano Technologies — seu parceiro de TI confiável na Flórida desde 2018. Engenheiros certificados, soluções comprovadas, atendimento excepcional.',
   alternates: {
     canonical: 'https://plattano.com/about',
   },
   openGraph: {
-    title: 'About Us | Plattano Technologies',
+    title: 'Sobre Nós | Plattano Technologies',
     description:
-      'Learn about Plattano Technologies - Your trusted IT partner in Florida since 2018.',
+      'Conheça a Plattano Technologies — seu parceiro de TI confiável na Flórida desde 2018.',
     url: 'https://plattano.com/about',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'About Us | Plattano Technologies',
-    description: 'Your trusted IT partner in Florida since 2018.',
+    title: 'Sobre Nós | Plattano Technologies',
+    description: 'Seu parceiro de TI confiável na Flórida desde 2018.',
   },
 }
 
@@ -28,4 +28,3 @@ export default function AboutLayout({
 }) {
   return children
 }
-

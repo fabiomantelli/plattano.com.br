@@ -20,7 +20,7 @@ export default function SolutionsSection() {
             transition={{ duration: 0.5 }}
             className="text-3xl md:text-5xl font-bold text-gray-900 mb-4"
           >
-            Enterprise IT Solutions
+            Soluções de TI Empresarial
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -29,7 +29,7 @@ export default function SolutionsSection() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-xl text-gray-600 max-w-2xl mx-auto"
           >
-            Comprehensive solutions to protect, secure, and scale your business infrastructure
+            Soluções completas para proteger, securizar e escalar a infraestrutura do seu negócio
           </motion.p>
         </div>
 
@@ -59,7 +59,7 @@ export default function SolutionsSection() {
                 <CardFooter>
                   <Button variant="outline" asChild className="w-full group">
                     <Link href={solution.href}>
-                      Learn More
+                      Saiba Mais
                       <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                     </Link>
                   </Button>
@@ -78,11 +78,11 @@ export default function SolutionsSection() {
           className="text-center mt-12"
         >
           <p className="text-gray-600 mb-4">
-            Not sure which solution is right for you?
+            Não sabe qual solução é a ideal para você?
           </p>
           <Button size="lg" asChild>
             <Link href="/contact">
-              Schedule a Free Consultation
+              Agendar Consulta Gratuita
               <ArrowRight className="ml-2 h-5 w-5" />
             </Link>
           </Button>

@@ -27,13 +27,13 @@ export default function ContactForm() {
     try {
       // TODO: Implement API call to /api/contact
       console.log('Form data:', data)
-      
+
       // Simulate API call
       await new Promise((resolve) => setTimeout(resolve, 1500))
-      
+
       setSubmitStatus('success')
       reset()
-      
+
       // Reset success message after 5 seconds
       setTimeout(() => setSubmitStatus('idle'), 5000)
     } catch (error) {
@@ -51,9 +51,9 @@ export default function ContactForm() {
         <div className="bg-secondary-50 border border-secondary-200 rounded-lg p-4 flex items-start">
           <CheckCircle className="h-5 w-5 text-secondary-600 mr-3 mt-0.5 flex-shrink-0" />
           <div>
-            <p className="font-semibold text-secondary-900">Message sent successfully!</p>
+            <p className="font-semibold text-secondary-900">Mensagem enviada com sucesso!</p>
             <p className="text-sm text-secondary-700 mt-1">
-              We&apos;ll get back to you within 4 hours.
+              Retornaremos em até 4 horas.
             </p>
           </div>
         </div>
@@ -64,9 +64,9 @@ export default function ContactForm() {
         <div className="bg-red-50 border border-red-200 rounded-lg p-4 flex items-start">
           <AlertCircle className="h-5 w-5 text-red-600 mr-3 mt-0.5 flex-shrink-0" />
           <div>
-            <p className="font-semibold text-red-900">Error sending message</p>
+            <p className="font-semibold text-red-900">Erro ao enviar mensagem</p>
             <p className="text-sm text-red-700 mt-1">
-              Please try again or call us directly.
+              Tente novamente ou ligue diretamente para nós.
             </p>
           </div>
         </div>
@@ -76,14 +76,14 @@ export default function ContactForm() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <label htmlFor="firstName" className="block text-sm font-medium text-gray-700 mb-2">
-            First Name *
+            Nome *
           </label>
           <input
             {...register('firstName')}
             type="text"
             id="firstName"
             className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
-            placeholder="John"
+            placeholder="João"
           />
           {errors.firstName && (
             <p className="mt-1 text-sm text-red-600">{errors.firstName.message}</p>
@@ -92,14 +92,14 @@ export default function ContactForm() {
 
         <div>
           <label htmlFor="lastName" className="block text-sm font-medium text-gray-700 mb-2">
-            Last Name *
+            Sobrenome *
           </label>
           <input
             {...register('lastName')}
             type="text"
             id="lastName"
             className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
-            placeholder="Doe"
+            placeholder="Silva"
           />
           {errors.lastName && (
             <p className="mt-1 text-sm text-red-600">{errors.lastName.message}</p>
@@ -110,14 +110,14 @@ export default function ContactForm() {
       {/* Email */}
       <div>
         <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
-          Corporate Email *
+          E-mail Corporativo *
         </label>
         <input
           {...register('email')}
           type="email"
           id="email"
           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
-          placeholder="john@company.com"
+          placeholder="joao@empresa.com.br"
         />
         {errors.email && (
           <p className="mt-1 text-sm text-red-600">{errors.email.message}</p>
@@ -127,14 +127,14 @@ export default function ContactForm() {
       {/* Company */}
       <div>
         <label htmlFor="company" className="block text-sm font-medium text-gray-700 mb-2">
-          Company *
+          Empresa *
         </label>
         <input
           {...register('company')}
           type="text"
           id="company"
           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
-          placeholder="Your Company Inc."
+          placeholder="Sua Empresa Ltda."
         />
         {errors.company && (
           <p className="mt-1 text-sm text-red-600">{errors.company.message}</p>
@@ -144,7 +144,7 @@ export default function ContactForm() {
       {/* Phone */}
       <div>
         <label htmlFor="phone" className="block text-sm font-medium text-gray-700 mb-2">
-          Phone (optional)
+          Telefone (opcional)
         </label>
         <input
           {...register('phone')}
@@ -161,19 +161,19 @@ export default function ContactForm() {
       {/* Interest */}
       <div>
         <label htmlFor="interest" className="block text-sm font-medium text-gray-700 mb-2">
-          I&apos;m interested in *
+          Tenho interesse em *
         </label>
         <select
           {...register('interest')}
           id="interest"
           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors"
         >
-          <option value="">Select an option</option>
-          <option value="data-protection">Data Protection (Veeam)</option>
-          <option value="cybersecurity">Cybersecurity (SentinelOne/Rainforest)</option>
+          <option value="">Selecione uma opção</option>
+          <option value="data-protection">Proteção de Dados (Veeam)</option>
+          <option value="cybersecurity">Cibersegurança (SentinelOne/Rainforest)</option>
           <option value="storage">Storage (ExaGrid/Plattano Hot)</option>
-          <option value="managed-services">Managed Services</option>
-          <option value="other">Other</option>
+          <option value="managed-services">Serviços Gerenciados</option>
+          <option value="other">Outro</option>
         </select>
         {errors.interest && (
           <p className="mt-1 text-sm text-red-600">{errors.interest.message}</p>
@@ -183,14 +183,14 @@ export default function ContactForm() {
       {/* Message */}
       <div>
         <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
-          Message (optional)
+          Mensagem (opcional)
         </label>
         <textarea
           {...register('message')}
           id="message"
           rows={4}
           className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-colors resize-none"
-          placeholder="Tell us about your needs..."
+          placeholder="Conte-nos sobre suas necessidades..."
         />
         {errors.message && (
           <p className="mt-1 text-sm text-red-600">{errors.message.message}</p>
@@ -206,11 +206,11 @@ export default function ContactForm() {
           className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300 rounded"
         />
         <label htmlFor="acceptPrivacy" className="ml-3 text-sm text-gray-600">
-          I accept the{' '}
+          Aceito a{' '}
           <a href="/privacy" className="text-primary-600 hover:text-primary-700 underline">
-            privacy policy
+            política de privacidade
           </a>{' '}
-          and agree to receive communications from Plattano *
+          e concordo em receber comunicações da Plattano *
         </label>
       </div>
       {errors.acceptPrivacy && (
@@ -225,11 +225,11 @@ export default function ContactForm() {
         isLoading={isSubmitting}
         disabled={isSubmitting}
       >
-        {isSubmitting ? 'Sending...' : 'Send Message'}
+        {isSubmitting ? 'Enviando...' : 'Enviar Mensagem'}
       </Button>
 
       <p className="text-xs text-center text-gray-500">
-        Average response time: 4 hours
+        Tempo médio de resposta: 4 horas
       </p>
     </form>
   )
