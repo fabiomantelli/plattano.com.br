@@ -22,7 +22,7 @@ export default function AboutPageClient() {
       {/* Breadcrumbs */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
         <Breadcrumbs
-          items={[{ name: 'About Us', url: '/about' }]}
+          items={[{ name: 'Sobre Nós', url: '/about' }]}
           className="mb-4"
         />
       </div>
@@ -33,7 +33,7 @@ export default function AboutPageClient() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center">
             <FadeIn className="text-4xl md:text-6xl font-bold mb-6">
-              <h1>Your Trusted IT Partner in Florida</h1>
+              <h1>Seu Parceiro de TI Confiável na Flórida</h1>
             </FadeIn>
             <FadeIn delay={0.1} className="text-xl md:text-2xl text-white/90 mb-8">
               <p>{companyInfo.mission}</p>
@@ -45,11 +45,11 @@ export default function AboutPageClient() {
               </div>
               <div className="flex items-center">
                 <Users className="h-5 w-5 mr-2" />
-                {companyInfo.employees} Team Members
+                {companyInfo.employees} Membros de Equipe
               </div>
               <div className="flex items-center">
                 <Award className="h-5 w-5 mr-2" />
-                Since {companyInfo.founded}
+                Desde {companyInfo.founded}
               </div>
             </FadeIn>
           </div>
@@ -80,7 +80,7 @@ export default function AboutPageClient() {
               <Card className="h-full">
                 <CardHeader>
                   <div className="text-5xl mb-4">🎯</div>
-                  <CardTitle>Our Mission</CardTitle>
+                  <CardTitle>Nossa Missão</CardTitle>
                   <CardDescription className="text-lg">
                     {companyInfo.mission}
                   </CardDescription>
@@ -91,7 +91,7 @@ export default function AboutPageClient() {
               <Card className="h-full">
                 <CardHeader>
                   <div className="text-5xl mb-4">🚀</div>
-                  <CardTitle>Our Vision</CardTitle>
+                  <CardTitle>Nossa Visão</CardTitle>
                   <CardDescription className="text-lg">
                     {companyInfo.vision}
                   </CardDescription>
@@ -107,10 +107,10 @@ export default function AboutPageClient() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeInView className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Our Values
+              Nossos Valores
             </h2>
             <p className="text-xl text-gray-600">
-              The principles that guide everything we do
+              Os princípios que guiam tudo o que fazemos
             </p>
           </FadeInView>
           <StaggerChildren className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-8">
@@ -130,10 +130,10 @@ export default function AboutPageClient() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeInView className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Our Journey
+              Nossa Trajetória
             </h2>
             <p className="text-xl text-gray-600">
-              7+ years of growth and innovation
+              7+ anos de crescimento e inovação
             </p>
           </FadeInView>
           <StaggerChildren className="space-y-8">
@@ -164,10 +164,10 @@ export default function AboutPageClient() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeInView className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Certifications & Partnerships
+              Certificações e Parcerias
             </h2>
             <p className="text-xl text-gray-600">
-              Certified by industry-leading technology providers
+              Certificados pelos principais provedores de tecnologia do mercado
             </p>
           </FadeInView>
           <StaggerChildren className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -191,10 +191,10 @@ export default function AboutPageClient() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeInView className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Our Team
+              Nossa Equipe
             </h2>
             <p className="text-xl text-gray-600">
-              Experienced professionals dedicated to your success
+              Profissionais experientes dedicados ao seu sucesso
             </p>
           </FadeInView>
           <StaggerChildren className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -204,7 +204,7 @@ export default function AboutPageClient() {
                   <div className="text-4xl font-bold text-primary-600 mb-2">
                     {team.engineers}
                   </div>
-                  <CardTitle className="text-lg">Certified Engineers</CardTitle>
+                  <CardTitle className="text-lg">Engenheiros Certificados</CardTitle>
                 </CardHeader>
               </Card>
             </StaggerItem>
@@ -214,7 +214,7 @@ export default function AboutPageClient() {
                   <div className="text-4xl font-bold text-primary-600 mb-2">
                     {team.certifications}
                   </div>
-                  <CardTitle className="text-lg">Technical Certifications</CardTitle>
+                  <CardTitle className="text-lg">Certificações Técnicas</CardTitle>
                 </CardHeader>
               </Card>
             </StaggerItem>
@@ -224,7 +224,7 @@ export default function AboutPageClient() {
                   <div className="text-4xl font-bold text-primary-600 mb-2">
                     {team.experience}
                   </div>
-                  <CardTitle className="text-lg">Average Experience</CardTitle>
+                  <CardTitle className="text-lg">Experiência Média</CardTitle>
                 </CardHeader>
               </Card>
             </StaggerItem>
@@ -234,7 +234,7 @@ export default function AboutPageClient() {
                   <div className="text-4xl font-bold text-primary-600 mb-2">
                     {team.languages.length}
                   </div>
-                  <CardTitle className="text-lg">Languages Supported</CardTitle>
+                  <CardTitle className="text-lg">Idiomas Atendidos</CardTitle>
                   <CardDescription className="text-xs">
                     {team.languages.join(', ')}
                   </CardDescription>
@@ -250,10 +250,10 @@ export default function AboutPageClient() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <FadeInView className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why Choose Plattano?
+              Por que Escolher a Plattano?
             </h2>
             <p className="text-xl text-gray-600">
-              What makes us different from other IT providers
+              O que nos diferencia dos outros provedores de TI
             </p>
           </FadeInView>
           <StaggerChildren className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -276,20 +276,20 @@ export default function AboutPageClient() {
       <section className="py-20 bg-gradient-to-r from-primary-500 via-primary-600 to-primary-700 text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-5xl font-bold mb-6">
-            Ready to Work Together?
+            Pronto para Trabalharmos Juntos?
           </h2>
           <p className="text-xl mb-8">
-            Let&apos;s discuss how we can help protect and scale your business
+            Vamos conversar sobre como podemos ajudar a proteger e escalar o seu negócio
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Button size="lg" variant="secondary" asChild className="bg-white text-primary-600 hover:bg-gray-100">
               <Link href="/contact">
-                Schedule a Meeting
+                Agendar uma Reunião
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Link>
             </Button>
             <Button size="lg" variant="outline" asChild className="border-white text-white hover:bg-white/10">
-              <a href="tel:+13213138762">Call: (321) 313-8762</a>
+              <a href="tel:+13213138762">Ligar: (321) 313-8762</a>
             </Button>
           </div>
         </div>
@@ -297,4 +297,3 @@ export default function AboutPageClient() {
     </div>
   )
 }
-

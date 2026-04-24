@@ -18,7 +18,7 @@ export default function ContactPageClient() {
         {/* Breadcrumbs */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6">
           <Breadcrumbs
-            items={[{ name: 'Contact', url: '/contact' }]}
+            items={[{ name: 'Contato', url: '/contact' }]}
             className="mb-4"
           />
         </div>
@@ -28,10 +28,10 @@ export default function ContactPageClient() {
           <div className="absolute inset-0 bg-grid-pattern opacity-10" />
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <FadeIn className="text-4xl md:text-6xl font-bold mb-6">
-              <h1>Let&apos;s Talk?</h1>
+              <h1>Vamos Conversar?</h1>
             </FadeIn>
             <FadeIn delay={0.1} className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto">
-              <p>Fill out the form or contact us directly. Response within 4 hours.</p>
+              <p>Preencha o formulário ou entre em contato diretamente. Resposta em até 4 horas.</p>
             </FadeIn>
           </div>
         </section>
@@ -44,9 +44,9 @@ export default function ContactPageClient() {
               <div className="lg:col-span-2">
                 <Card>
                   <CardHeader>
-                    <CardTitle className="text-2xl">Send us a Message</CardTitle>
+                    <CardTitle className="text-2xl">Envie uma Mensagem</CardTitle>
                     <CardDescription>
-                      Fill out the form below and we&apos;ll get back to you as soon as possible
+                      Preencha o formulário abaixo e retornaremos o mais breve possível
                     </CardDescription>
                   </CardHeader>
                   <CardContent>
@@ -60,9 +60,9 @@ export default function ContactPageClient() {
                 {/* Direct Contact */}
                 <Card>
                   <CardHeader>
-                    <CardTitle>Direct Contact</CardTitle>
+                    <CardTitle>Contato Direto</CardTitle>
                     <CardDescription>
-                      Prefer to reach out directly? Use one of these options
+                      Prefere falar diretamente? Use uma dessas opções
                     </CardDescription>
                   </CardHeader>
                   <CardContent className="space-y-4">
@@ -72,7 +72,7 @@ export default function ContactPageClient() {
                     >
                       <Phone className="h-5 w-5 text-primary-600 mr-3 mt-0.5 group-hover:scale-110 transition-transform" />
                       <div>
-                        <p className="font-medium text-gray-900">Phone</p>
+                        <p className="font-medium text-gray-900">Telefone</p>
                         <p className="text-sm text-gray-600">(321) 313-8762</p>
                       </div>
                     </a>
@@ -83,7 +83,7 @@ export default function ContactPageClient() {
                     >
                       <Mail className="h-5 w-5 text-primary-600 mr-3 mt-0.5 group-hover:scale-110 transition-transform" />
                       <div>
-                        <p className="font-medium text-gray-900">Email</p>
+                        <p className="font-medium text-gray-900">E-mail</p>
                         <p className="text-sm text-gray-600">plattano@plattano.com</p>
                       </div>
                     </a>
@@ -91,13 +91,13 @@ export default function ContactPageClient() {
                     <div className="flex items-start p-3">
                       <MapPin className="h-5 w-5 text-primary-600 mr-3 mt-0.5" />
                       <div>
-                        <p className="font-medium text-gray-900">Address</p>
+                        <p className="font-medium text-gray-900">Endereço</p>
                         <p className="text-sm text-gray-600">
                           7345 W Sand Lake Rd Ste 210
                           <br />
-                          Orlando, FL 32819 
+                          Orlando, FL 32819
                           <br />
-                          USA
+                          EUA
                         </p>
                       </div>
                     </div>
@@ -107,22 +107,22 @@ export default function ContactPageClient() {
                 {/* Business Hours */}
                 <Card>
                   <CardHeader>
-                    <CardTitle>Business Hours</CardTitle>
+                    <CardTitle>Horário de Atendimento</CardTitle>
                   </CardHeader>
                   <CardContent className="space-y-3">
                     <div className="flex items-start">
                       <Clock className="h-5 w-5 text-primary-600 mr-3 mt-0.5" />
                       <div className="flex-grow">
-                        <p className="font-medium text-gray-900">Commercial</p>
-                        <p className="text-sm text-gray-600">Mon-Fri: 8:00 AM - 6:00 PM EST</p>
-                        <p className="text-sm text-gray-600">Saturday: 9:00 AM - 1:00 PM EST</p>
-                        <p className="text-sm text-gray-600">Sunday: Closed</p>
+                        <p className="font-medium text-gray-900">Comercial</p>
+                        <p className="text-sm text-gray-600">Seg–Sex: 8h00 – 18h00 EST</p>
+                        <p className="text-sm text-gray-600">Sábado: 9h00 – 13h00 EST</p>
+                        <p className="text-sm text-gray-600">Domingo: Fechado</p>
                       </div>
                     </div>
 
                     <div className="pt-3 border-t border-gray-200">
-                      <p className="font-medium text-gray-900 mb-1">Technical Support</p>
-                      <p className="text-sm text-gray-600">24/7 for clients with support contract</p>
+                      <p className="font-medium text-gray-900 mb-1">Suporte Técnico</p>
+                      <p className="text-sm text-gray-600">24/7 para clientes com contrato de suporte</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -132,16 +132,16 @@ export default function ContactPageClient() {
                   <CardContent className="pt-6">
                     <div className="space-y-4">
                       <div className="text-center">
-                        <div className="text-3xl font-bold text-primary-600 mb-1">4 hours</div>
-                        <div className="text-sm text-gray-600">Average response time</div>
+                        <div className="text-3xl font-bold text-primary-600 mb-1">4 horas</div>
+                        <div className="text-sm text-gray-600">Tempo médio de resposta</div>
                       </div>
                       <div className="text-center">
-                        <div className="text-3xl font-bold text-primary-600 mb-1">99.9%</div>
-                        <div className="text-sm text-gray-600">Customer satisfaction</div>
+                        <div className="text-3xl font-bold text-primary-600 mb-1">99,9%</div>
+                        <div className="text-sm text-gray-600">Satisfação dos clientes</div>
                       </div>
                       <div className="text-center">
                         <div className="text-3xl font-bold text-primary-600 mb-1">500+</div>
-                        <div className="text-sm text-gray-600">Happy clients</div>
+                        <div className="text-sm text-gray-600">Clientes satisfeitos</div>
                       </div>
                     </div>
                   </CardContent>
@@ -156,13 +156,13 @@ export default function ContactPageClient() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                Visit Our Office
+                Visite Nosso Escritório
               </h2>
               <p className="text-xl text-gray-600 mb-2">
                 7345 W Sand Lake Rd Ste 210, Orlando, FL 32819
               </p>
               <p className="text-gray-500">
-                Located in the heart of Orlando, Florida
+                Localizado no coração de Orlando, Flórida
               </p>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-lg border border-gray-200">
@@ -174,7 +174,7 @@ export default function ContactPageClient() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Plattano Office Location"
+                title="Localização do Escritório Plattano"
               />
             </div>
           </div>
@@ -183,4 +183,3 @@ export default function ContactPageClient() {
     </>
   )
 }
-
