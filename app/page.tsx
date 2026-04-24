@@ -9,11 +9,11 @@ import StructuredData from './components/seo/StructuredData'
 import { generateWebSiteSchema } from './lib/seo/generateStructuredData'
 
 export const metadata: Metadata = {
-  title: 'Plattano Technologies | Soluções de TI Empresarial na Flórida',
+  title: 'Plattano Technologies | Soluções de TI Empresarial na Florianópolis',
   description:
-    'Provedor líder de soluções de backup, storage e cibersegurança na Flórida. Parceiro certificado Veeam, ExaGrid e SentinelOne. Proteja e escale seu negócio.',
+    'Provedor líder de soluções de backup, storage e cibersegurança na Florianópolis. Parceiro certificado Veeam, ExaGrid e SentinelOne. Proteja e escale seu negócio.',
   keywords: [
-    'soluções de TI Flórida',
+    'soluções de TI Florianópolis',
     'parceiro Veeam',
     'soluções de backup',
     'cibersegurança',
@@ -28,9 +28,9 @@ export const metadata: Metadata = {
     canonical: 'https://plattano.com',
   },
   openGraph: {
-    title: 'Plattano Technologies | Soluções de TI Empresarial na Flórida',
+    title: 'Plattano Technologies | Soluções de TI Empresarial na Florianópolis',
     description:
-      'Provedor líder de soluções de backup, storage e cibersegurança na Flórida. Confiado por mais de 1.100 empresas.',
+      'Provedor líder de soluções de backup, storage e cibersegurança na Florianópolis. Confiado por mais de 1.100 empresas.',
     url: 'https://plattano.com',
     siteName: 'Plattano Technologies',
     images: [
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Plattano Technologies | Soluções de TI Empresarial',
     description:
-      'Provedor líder de soluções de backup, storage e cibersegurança na Flórida.',
+      'Provedor líder de soluções de backup, storage e cibersegurança na Florianópolis.',
     images: ['https://plattano.com/images/home/logo.webp'],
   },
 }

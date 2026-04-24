@@ -2,12 +2,12 @@ import type { Metadata } from 'next'
 import ContactPageClient from './ContactPageClient'
 
 export const metadata: Metadata = {
-  title: 'Fale Conosco | Plattano Technologies | Soluções de TI na Flórida',
+  title: 'Fale Conosco | Plattano Technologies | Soluções de TI na Florianópolis',
   description:
-    'Entre em contato com a Plattano Technologies. Localizada em Orlando, Flórida. Ligue (321) 313-8762 ou envie e-mail para plattano@plattano.com. Tempo médio de resposta: 4 horas.',
+    'Entre em contato com a Plattano Technologies. Localizada em Orlando, Florianópolis. Ligue (321) 313-8762 ou envie e-mail para plattano@plattano.com. Tempo médio de resposta: 4 horas.',
   keywords: [
     'contato Plattano',
-    'suporte de TI Flórida',
+    'suporte de TI Florianópolis',
     'serviços de TI Orlando',
     'consultoria de TI',
     'contato TI empresarial',
@@ -17,9 +17,9 @@ export const metadata: Metadata = {
     canonical: 'https://plattano.com/contact',
   },
   openGraph: {
-    title: 'Fale com a Plattano Technologies | Soluções de TI na Flórida',
+    title: 'Fale com a Plattano Technologies | Soluções de TI na Florianópolis',
     description:
-      'Entre em contato com nossos especialistas de TI. Localizada em Orlando, Flórida. Resposta em até 4 horas.',
+      'Entre em contato com nossos especialistas de TI. Localizada em Orlando, Florianópolis. Resposta em até 4 horas.',
     url: 'https://plattano.com/contact',
     siteName: 'Plattano Technologies',
     images: [

@@ -168,7 +168,7 @@ export const whyPlattano = [
   {
     icon: '📍',
     title: 'Suporte Local',
-    description: 'Baseados na Flórida, suporte PT/EN',
+    description: 'Baseados na Florianópolis, suporte PT/EN',
   },
   {
     icon: '⚡',

@@ -18,13 +18,13 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL('https://plattano.com'),
   title: {
-    default: 'Plattano | Soluções de TI Empresarial na Flórida',
+    default: 'Plattano | Soluções de TI Empresarial na Florianópolis',
     template: '%s | Plattano',
   },
   description:
-    'Provedor líder de soluções de backup, storage e cibersegurança na Flórida. Parceiro certificado Veeam, ExaGrid e SentinelOne.',
+    'Provedor líder de soluções de backup, storage e cibersegurança na Florianópolis. Parceiro certificado Veeam, ExaGrid e SentinelOne.',
   keywords: [
-    'soluções de TI Flórida',
+    'soluções de TI Florianópolis',
     'parceiro Veeam',
     'soluções de backup',
     'cibersegurança',

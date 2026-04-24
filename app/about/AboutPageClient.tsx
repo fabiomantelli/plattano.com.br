@@ -33,7 +33,7 @@ export default function AboutPageClient() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center">
             <FadeIn className="text-4xl md:text-6xl font-bold mb-6">
-              <h1>Seu Parceiro de TI Confiável na Flórida</h1>
+              <h1>Seu Parceiro de TI Confiável na Florianópolis</h1>
             </FadeIn>
             <FadeIn delay={0.1} className="text-xl md:text-2xl text-white/90 mb-8">
               <p>{companyInfo.mission}</p>

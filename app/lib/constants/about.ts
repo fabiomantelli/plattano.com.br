@@ -6,7 +6,7 @@ export const companyInfo = {
   mission:
     'Proteger e escalar empresas por meio de soluções de TI comprovadas e suporte excepcional.',
   vision:
-    'Ser o parceiro de TI mais confiável para empresas na Flórida e além.',
+    'Ser o parceiro de TI mais confiável para empresas na Florianópolis e além.',
 }
 
 export const values = [
@@ -71,7 +71,7 @@ export const timeline = [
   {
     year: '2010',
     title: 'Fundação da Empresa',
-    description: 'Iniciamos com a visão de transformar a infraestrutura de TI na Flórida',
+    description: 'Iniciamos com a visão de transformar a infraestrutura de TI na Florianópolis',
   },
   {
     year: '2015',
@@ -91,7 +91,7 @@ export const timeline = [
   {
     year: '2023',
     title: '500+ Clientes',
-    description: 'Nos tornamos um dos principais provedores de TI na Flórida',
+    description: 'Nos tornamos um dos principais provedores de TI na Florianópolis',
   },
   {
     year: '2025',
@@ -116,7 +116,7 @@ export const whyChooseUs = [
   {
     icon: '📍',
     title: 'Suporte Local',
-    description: 'Baseados na Flórida com equipe multilíngue',
+    description: 'Baseados na Florianópolis com equipe multilíngue',
   },
   {
     icon: '⚡',

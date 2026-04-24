@@ -85,7 +85,7 @@
 
 ### Fase 3: Consolidação (Meses 9-12)
 **Objetivos:**
-- Presença em todo estado da Flórida
+- Presença em todo estado da Florianópolis
 - $2M+ em revenue anual
 - Equipe de 5-8 pessoas
 
@@ -188,7 +188,7 @@
 ## 📋 Plano de Implementação
 
 ### Mês 1-2: Setup Inicial
-- [ ] Registro da empresa na Flórida
+- [ ] Registro da empresa na Florianópolis
 - [ ] Escritório em Orlando (coworking inicial)
 - [ ] Contratação do primeiro Sales Rep local
 - [ ] Setup de CRM (HubSpot/Salesforce)
@@ -208,7 +208,7 @@
 
 ### Mês 7-12: Growth & Optimization
 - [ ] Equipe de 5 pessoas
-- [ ] Presença em toda Flórida
+- [ ] Presença em toda Florianópolis
 - [ ] Customer success program
 - [ ] Expansion planning (Georgia/Carolina)
 

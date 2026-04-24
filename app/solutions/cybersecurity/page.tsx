@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     'Cibersegurança com IA via SentinelOne e Rainforest. Proteção contra ameaças avançadas, ransomware e ataques à marca. Trial gratuito de 30 dias disponível.',
   keywords: [
     'parceiro SentinelOne',
-    'cibersegurança Flórida',
+    'cibersegurança Florianópolis',
     'proteção de endpoint',
     'plataforma XDR',
     'proteção contra ransomware',

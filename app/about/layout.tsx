@@ -3,21 +3,21 @@ import type { Metadata } from 'next'
 export const metadata: Metadata = {
   title: 'Sobre Nós',
   description:
-    'Conheça a Plattano Technologies — seu parceiro de TI confiável na Flórida desde 2018. Engenheiros certificados, soluções comprovadas, atendimento excepcional.',
+    'Conheça a Plattano Technologies — seu parceiro de TI confiável na Florianópolis desde 2018. Engenheiros certificados, soluções comprovadas, atendimento excepcional.',
   alternates: {
     canonical: 'https://plattano.com/about',
   },
   openGraph: {
     title: 'Sobre Nós | Plattano Technologies',
     description:
-      'Conheça a Plattano Technologies — seu parceiro de TI confiável na Flórida desde 2018.',
+      'Conheça a Plattano Technologies — seu parceiro de TI confiável na Florianópolis desde 2018.',
     url: 'https://plattano.com/about',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Sobre Nós | Plattano Technologies',
-    description: 'Seu parceiro de TI confiável na Flórida desde 2018.',
+    description: 'Seu parceiro de TI confiável na Florianópolis desde 2018.',
   },
 }
 

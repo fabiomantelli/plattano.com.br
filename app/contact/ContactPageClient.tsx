@@ -162,7 +162,7 @@ export default function ContactPageClient() {
                 7345 W Sand Lake Rd Ste 210, Orlando, FL 32819
               </p>
               <p className="text-gray-500">
-                Localizado no coração de Orlando, Flórida
+                Localizado no coração de Orlando, Florianópolis
               </p>
             </div>
             <div className="rounded-2xl overflow-hidden shadow-lg border border-gray-200">
