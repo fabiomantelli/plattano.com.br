@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="text-2xl font-bold text-white mb-4">Plattano Technologies</div>
             <p className="text-gray-400 mb-6 max-w-md">
-              Provedor líder de soluções de TI empresarial na Florianópolis.
+              Provedor líder de soluções de TI empresarial em Florianópolis.
               Especialistas em backup, storage e cibersegurança.
             </p>
             <div className="space-y-3">

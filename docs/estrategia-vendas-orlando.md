@@ -188,7 +188,7 @@
 ## 📋 Plano de Implementação
 
 ### Mês 1-2: Setup Inicial
-- [ ] Registro da empresa na Florianópolis
+- [ ] Registro da empresa em Florianópolis
 - [ ] Escritório em Orlando (coworking inicial)
 - [ ] Contratação do primeiro Sales Rep local
 - [ ] Setup de CRM (HubSpot/Salesforce)

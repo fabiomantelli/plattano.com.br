@@ -12,7 +12,7 @@
 │         Proteja e Escale Seu Negócio com                                  │
 │              Soluções de TI Comprovadas                                    │
 │                                                                            │
-│    Parceiro certificado Veeam, SentinelOne e ExaGrid na Florianópolis           │
+│    Parceiro certificado Veeam, SentinelOne e ExaGrid em Florianópolis           │
 │         Mais de 500+ empresas confiam em nós                              │
 │                                                                            │
 │     [Fale com Especialista]  [Ver Soluções →]                            │
@@ -308,7 +308,7 @@
 │                                                                            │
 │  🏆 Veeam Gold Partner - Certificação máxima                              │
 │  👨‍💻 Equipe Certificada - 15 engenheiros Veeam                            │
-│  📍 Local - Baseados na Florianópolis, suporte em PT/EN                         │
+│  📍 Local - Baseados em Florianópolis, suporte em PT/EN                         │
 │  ⚡ Resposta Rápida - SLA de 4 horas                                      │
 │  💰 Pricing Competitivo - Até 30% mais barato                             │
 │                                                                            │
@@ -453,7 +453,7 @@
 │  │                                  │  │                              │  │
 │  │  Interesse *                     │  │  📍 Endereço                 │  │
 │  │  [▼ Selecione      ]             │  │  7345 W Sand Lake Rd Ste 210 │  │
-│  │     Data Protection              │  │  Orlando, FL 32819             │  │
+│  │     Data Protection              │  │  Florianópolis, SC 88034-132 │  │
 │  │     Cybersecurity                │  │  USA                         │  │
 │  │     Storage                      │  │                              │  │
 │  │     Serviços Gerenciados         │  │                              │  │

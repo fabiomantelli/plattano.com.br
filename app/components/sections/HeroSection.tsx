@@ -25,7 +25,7 @@ export default function HeroSection() {
             className="inline-flex items-center px-4 py-2 rounded-full bg-primary-100 text-primary-700 text-sm font-medium mb-8"
           >
             <span className="w-2 h-2 bg-primary-500 rounded-full mr-2 animate-pulse" />
-            Confiado por mais de 1.100 empresas na Florianópolis
+            Confiado por mais de 1.100 empresas em Florianópolis
           </motion.div>
 
           {/* Headline */}
@@ -49,7 +49,7 @@ export default function HeroSection() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto"
           >
-            Parceiro certificado Veeam, SentinelOne e ExaGrid na Florianópolis.
+            Parceiro certificado Veeam, SentinelOne e ExaGrid em Florianópolis.
             Protegendo dados críticos para empresas como a sua.
           </motion.p>
 
