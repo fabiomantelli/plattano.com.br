@@ -7,8 +7,8 @@ export const metadata: Metadata = {
     'Entre em contato com a Plattano Technologies. Localizada em Florianópolis, SC. Ligue (321) 313-8762 ou envie e-mail para plattano@plattano.com.br. Tempo médio de resposta: 4 horas.',
   keywords: [
     'contato Plattano',
-    'suporte de TI Florianópolis',
-    'serviços de TI Orlando',
+    'suporte de TI em Florianópolis',
+    'serviços de TI em Florianópolis',
     'consultoria de TI',
     'contato TI empresarial',
     'contato Plattano Technologies',

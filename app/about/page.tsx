@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description:
     'Conheça a Plattano Technologies, seu parceiro de TI confiável em Florianópolis. 7+ anos protegendo mais de 1.100 empresas com soluções comprovadas de backup, storage e cibersegurança.',
   keywords: [
-    'empresa de TI Florianópolis',
-    'serviços de TI Orlando',
+    'empresa de TI em Florianópolis',
+    'serviços de TI em Florianóolis',
     'soluções de TI empresarial',
     'especialistas em proteção de dados',
     'especialistas em cibersegurança',

@@ -93,7 +93,7 @@ export default function ContactPageClient() {
                       <div>
                         <p className="font-medium text-gray-900">Endereço</p>
                         <p className="text-sm text-gray-600">
-                          7345 W Sand Lake Rd Ste 210
+                          Rua
                           <br />
                           Florianópolis, SC 88034-132
                           <br />

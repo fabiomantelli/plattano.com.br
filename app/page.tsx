@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     'proteção de dados',
     'cloud storage',
     'TI empresarial',
-    'serviços de TI Orlando',
+    'serviços de TI em Florianópolis',
     'parceiro ExaGrid',
     'parceiro SentinelOne',
   ],

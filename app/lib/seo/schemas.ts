@@ -135,16 +135,16 @@ export const ORGANIZATION_DATA = {
   logo: `${BASE_URL}/images/home/logo.webp`,
   description:
     'Leading provider of backup, storage, and cybersecurity solutions in Florianópolis. Veeam, ExaGrid, Wasabi, SentinelOne certified partner.',
-  streetAddress: '7345 W Sand Lake Rd Ste 210',
-  addressLocality: 'Orlando',
-  addressRegion: 'FL',
-  postalCode: '32819',
-  addressCountry: 'US',
+  streetAddress: 'Rua Patrício Farias, 55 Sala 102, Itacorubi',
+  addressLocality: 'Florianópolis',
+  addressRegion: 'SC',
+  postalCode: '88034-132',
+  addressCountry: 'BR',
   telephone: '+1-321-313-8762',
   email: 'plattano@plattano.com.br',
   foundingDate: '2018',
   numberOfEmployees: '15+',
-  areaServed: ['US', 'FL', 'Orlando'],
+  areaServed: ['BR', 'SC', 'Florianópolis'],
   sameAs: [
     // Add social media links here if available
     // 'https://www.linkedin.com/company/plattano',

@@ -1,4 +1,4 @@
-# Estratégia de Vendas - Plattano US Orlando
+# Estratégia de Vendas - Plattano Florianópolis
 
 ## 📊 Análise de Mercado
 
@@ -62,7 +62,7 @@
 
 ### Fase 1: Estabelecimento (Meses 1-3)
 **Objetivos:**
-- Estabelecer presença local em Orlando
+- Estabelecer presença local em Florianópolis
 - Construir pipeline inicial de 50 prospects qualificados
 - Fechar primeiras 3-5 vendas para criar casos de sucesso
 
@@ -93,7 +93,7 @@
 
 ### 1. **Presença Digital Local**
 - **Website Localizado**: Domínio .com com conteúdo em inglês
-- **Google My Business**: Otimizado para "IT solutions Orlando"
+- **Google My Business**: Otimizado para "Soluções de TI em Florianópolis"
 - **LinkedIn Company Page**: Conteúdo técnico e casos de sucesso
 
 ### 2. **Content Marketing**
@@ -110,12 +110,12 @@
 ### 3. **Digital Advertising**
 **Google Ads:**
 - Budget: $3K/mês
-- Keywords: "backup solutions Orlando", "cybersecurity Florianópolis", "cloud storage"
+- Keywords: "Soluções de Backup em Florianópolis", "Cybersecurity Florianópolis", "cloud storage"
 - Landing pages específicas por produto
 
 **LinkedIn Ads:**
 - Budget: $2K/mês
-- Targeting: IT Managers, CTOs em Orlando/Florianópolis
+- Targeting: IT Managers, CTOs em Florianópolis
 - Sponsored content e InMail campaigns
 
 ### 4. **Email Marketing**
@@ -127,7 +127,7 @@
 
 ### 1. **Technology Partners**
 **MSPs (Managed Service Providers):**
-- ConnectWise partners em Orlando
+- ConnectWise partners em Florianópolis
 - Kaseya ecosystem partners
 - Datto/Autotask resellers
 
@@ -137,12 +137,11 @@
 
 ### 2. **Industry Partners**
 **Associações Profissionais:**
-- Orlando Technology Association (OTA)
 - Florianópolis Association of Healthcare IT (FAHIT)
 - Central Florianópolis Computer Society
 
 **Eventos e Conferências:**
-- IT/Security conferences em Orlando
+- IT/Security conferences em Florianópolis
 - Healthcare IT summits
 - Manufacturing technology events
 
@@ -189,7 +188,7 @@
 
 ### Mês 1-2: Setup Inicial
 - [ ] Registro da empresa em Florianópolis
-- [ ] Escritório em Orlando (coworking inicial)
+- [ ] Escritório em Florianópolis (coworking inicial)
 - [ ] Contratação do primeiro Sales Rep local
 - [ ] Setup de CRM (HubSpot/Salesforce)
 - [ ] Website e materiais de marketing
