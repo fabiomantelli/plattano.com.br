@@ -1,8 +1,8 @@
 # Plattano Documentation Index
 
-**Welcome to the Plattano Florida Operations Documentation**
+**Welcome to the Plattano Florianópolis Operations Documentation**
 
-This documentation provides comprehensive context and guidance for AI agents, customer support, sales teams, and technical support staff supporting Plattano's Florida operations.
+This documentation provides comprehensive context and guidance for AI agents, customer support, sales teams, and technical support staff supporting Plattano's Florianópolis operations.
 
 ---
 
@@ -130,7 +130,7 @@ This documentation provides comprehensive context and guidance for AI agents, cu
 
 ## 🏢 Business Model Summary
 
-### Florida Operations
+### Florianópolis Operations
 - **Role:** Sales and customer relationship management
 - **Focus:** License sales, lead generation, local market presence
 - **Team:** Sales agents, customer support
@@ -142,8 +142,8 @@ This documentation provides comprehensive context and guidance for AI agents, cu
 - **Track Record:** $1M/year revenue, 500+ protected clients
 
 ### Unique Value Proposition
-**"Florida Sales + Brazil Expertise = Best of Both Worlds"**
-- Local Florida presence for sales
+**"Florianópolis Sales + Brazil Expertise = Best of Both Worlds"**
+- Local Florianópolis presence for sales
 - Proven Brazil IT team for implementation and support
 - Cost-effective model (up to 30% cheaper than competitors)
 - Same proven solutions generating $1M/year in Brazil
@@ -233,7 +233,7 @@ This documentation provides comprehensive context and guidance for AI agents, cu
 - **Uptime:** 99.9% SLA
 
 ### Support Model
-- **Tier 1:** Initial contact (Florida)
+- **Tier 1:** Initial contact (Florianópolis)
 - **Tier 2:** Technical support (Brazil IT team)
 - **Tier 3:** Vendor escalation
 
@@ -298,4 +298,4 @@ For questions or updates to this documentation:
 
 ---
 
-**Welcome to Plattano! Let's help Florida businesses protect their data and scale their operations! 🚀**
+**Welcome to Plattano! Let's help Florianópolis businesses protect their data and scale their operations! 🚀**

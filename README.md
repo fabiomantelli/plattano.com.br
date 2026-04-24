@@ -1,6 +1,6 @@
 # Plattano Website
 
-Modern, redesigned website for Plattano - Enterprise IT Solutions provider in Florida.
+Modern, redesigned website for Plattano - Enterprise IT Solutions provider in Florianópolis.
 
 ## 🚀 Overview
 

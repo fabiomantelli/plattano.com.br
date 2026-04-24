@@ -20,7 +20,7 @@ npx jest app/components/forms/ContactForm.test.tsx
 
 ## Architecture
 
-**B2B marketing website** for Plattano (IT solutions provider, Florida). Next.js 16 App Router with React 19 and TypeScript.
+**B2B marketing website** for Plattano (IT solutions provider, Florianópolis). Next.js 16 App Router with React 19 and TypeScript.
 
 ### Routing & Pages
 

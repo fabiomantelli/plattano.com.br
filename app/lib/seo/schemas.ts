@@ -134,7 +134,7 @@ export const ORGANIZATION_DATA = {
   url: BASE_URL,
   logo: `${BASE_URL}/images/home/logo.webp`,
   description:
-    'Leading provider of backup, storage, and cybersecurity solutions in Florida. Veeam, ExaGrid, Wasabi, SentinelOne certified partner.',
+    'Leading provider of backup, storage, and cybersecurity solutions in Florianópolis. Veeam, ExaGrid, Wasabi, SentinelOne certified partner.',
   streetAddress: '7345 W Sand Lake Rd Ste 210',
   addressLocality: 'Orlando',
   addressRegion: 'FL',

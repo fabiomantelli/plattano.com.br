@@ -1,4 +1,4 @@
-# Plattano Business Context - Florida Operations
+# Plattano Business Context - Florianópolis Operations
 
 **Last Updated:** December 2025  
 **Purpose:** Comprehensive business context for AI agents, customer support, and sales teams
@@ -8,14 +8,14 @@
 ## 🏢 Company Overview
 
 ### Business Structure
-- **Florida Operations:** New business focused on selling licenses and implementation services
+- **Florianópolis Operations:** New business focused on selling licenses and implementation services
 - **Brazil Operations:** Established business generating $1M/year with IT professionals
-- **Unique Model:** Florida sells licenses; Brazil IT professionals provide implementation and support
+- **Unique Model:** Florianópolis sells licenses; Brazil IT professionals provide implementation and support
 
 ### Geographic Presence
-- **Primary Market:** Florida, USA
+- **Primary Market:** Florianópolis, USA
 - **Support Hub:** Brazil (IT professionals)
-- **Languages:** English (Florida), Portuguese/English (Brazil support)
+- **Languages:** English (Florianópolis), Portuguese/English (Brazil support)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### Revenue Streams
 
-#### 1. **License Sales** (Primary - Florida)
+#### 1. **License Sales** (Primary - Florianópolis)
 - Veeam licenses (Backup & Replication, Microsoft 365, Cloud Backup, Recovery Orchestrator, Veeam ONE)
 - SentinelOne licenses (Endpoint protection, XDR)
 - Rainforest.tech licenses (Brand protection, leak detection)
@@ -46,8 +46,8 @@
 - Ongoing support and maintenance
 
 ### Unique Value Proposition
-**"Florida Sales + Brazil Expertise = Best of Both Worlds"**
-- Local Florida presence for sales and relationship building
+**"Florianópolis Sales + Brazil Expertise = Best of Both Worlds"**
+- Local Florianópolis presence for sales and relationship building
 - Proven Brazil IT team with 15+ years experience
 - Cost-effective support model
 - Bilingual support (English/Portuguese)
@@ -133,7 +133,7 @@
 
 ## 👥 Team Structure
 
-### Florida Team
+### Florianópolis Team
 - **Role:** Sales, business development, customer relationship management
 - **Focus:** License sales, lead generation, local market presence
 - **Languages:** English
@@ -147,11 +147,11 @@
   - Rainforest.tech implementation experts
   - Storage solution architects
 - **Languages:** Portuguese, English
-- **Support Model:** Remote support for Florida customers
+- **Support Model:** Remote support for Florianópolis customers
 
 ---
 
-## 🎯 Target Market (Florida)
+## 🎯 Target Market (Florianópolis)
 
 ### Primary Industries
 1. **Healthcare:** HIPAA compliance, patient data protection
@@ -201,7 +201,7 @@
 
 ### Company Stats
 - **Years of Experience:** 15+ (Brazil team)
-- **Protected Clients:** 500+ (Brazil), Growing (Florida)
+- **Protected Clients:** 500+ (Brazil), Growing (Florianópolis)
 - **Average Savings:** 40% for customers
 - **Uptime SLA:** 99.9%
 - **Response Time:** 4-hour SLA (critical)
@@ -238,7 +238,7 @@
 2. **Expert Team:** 15+ certified engineers
 3. **Cost Savings:** Up to 30% cheaper, 40% average customer savings
 4. **Fast Response:** 4-hour SLA
-5. **Local Presence:** Florida-based sales team
+5. **Local Presence:** Florianópolis-based sales team
 6. **Bilingual Support:** English/Portuguese
 
 ---
@@ -246,7 +246,7 @@
 ## 🛠️ Support Model
 
 ### Support Structure
-- **Tier 1:** Initial contact, basic questions (Florida)
+- **Tier 1:** Initial contact, basic questions (Florianópolis)
 - **Tier 2:** Technical support (Brazil IT team)
 - **Tier 3:** Escalation to vendor (Veeam, SentinelOne, etc.)
 
@@ -282,15 +282,15 @@
 ## 📝 Important Notes
 
 ### Business Model Clarifications
-1. **Florida = Sales:** Focus on license sales and customer acquisition
+1. **Florianópolis = Sales:** Focus on license sales and customer acquisition
 2. **Brazil = Delivery:** IT professionals handle all implementation and support
-3. **Remote Support:** Brazil team supports Florida customers remotely
+3. **Remote Support:** Brazil team supports Florianópolis customers remotely
 4. **Time Zone:** Consider time zone differences (EST vs BRT)
 
 ### Competitive Advantages
 1. **Cost:** Lower pricing than competitors
 2. **Expertise:** Proven Brazil team with certifications
-3. **Model:** Unique Florida sales + Brazil expertise model
+3. **Model:** Unique Florianópolis sales + Brazil expertise model
 4. **Track Record:** $1M/year success in Brazil
 
 ### Common Objections & Responses
@@ -304,25 +304,25 @@
 ## 🎯 Goals & Objectives
 
 ### Short-Term (Q1 2026)
-- Establish Florida market presence
+- Establish Florianópolis market presence
 - Generate consistent lead flow
 - Close first major deals
 - Build customer references
 
 ### Long-Term (2026-2027)
 - Scale to match Brazil revenue ($1M/year)
-- Build Florida customer base
+- Build Florianópolis customer base
 - Expand product portfolio
-- Consider local Florida IT team (if needed)
+- Consider local Florianópolis IT team (if needed)
 
 ---
 
 ## 📞 Contact Information
 
-### Florida Operations
+### Florianópolis Operations
 - **Website:** plattano.com
 - **Email:** plattano@plattano.com
-- **Location:** Florida, USA
+- **Location:** Florianópolis, USA
 
 ### Support
 - **Response Time:** 4 hours (critical), 24 hours (non-critical)
@@ -331,6 +331,6 @@
 
 ---
 
-**Document Owner:** Plattano Florida Operations  
+**Document Owner:** Plattano Florianópolis Operations  
 **Review Frequency:** Quarterly  
 **Next Review:** March 2026

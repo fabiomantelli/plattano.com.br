@@ -120,7 +120,7 @@ Hero: "Parceiro de Confiança em TI"
 ├─ Missão e Valores
 ├─ Parceiros Certificados (logos + badges)
 ├─ Time e Expertise
-├─ Localização (Florida)
+├─ Localização (Florianópolis)
 └─ CTA: "Conheça Nossa Equipe"
 ```
 

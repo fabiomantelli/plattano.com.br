@@ -98,7 +98,7 @@
 
 ### 2. **Content Marketing**
 **Blog Posts Semanais:**
-- "Ransomware Protection for Florida Healthcare"
+- "Ransomware Protection for Florianópolis Healthcare"
 - "Cloud Storage Cost Optimization Guide"
 - "Compliance Made Simple: HIPAA + IT Security"
 
@@ -110,12 +110,12 @@
 ### 3. **Digital Advertising**
 **Google Ads:**
 - Budget: $3K/mês
-- Keywords: "backup solutions Orlando", "cybersecurity Florida", "cloud storage"
+- Keywords: "backup solutions Orlando", "cybersecurity Florianópolis", "cloud storage"
 - Landing pages específicas por produto
 
 **LinkedIn Ads:**
 - Budget: $2K/mês
-- Targeting: IT Managers, CTOs em Orlando/Florida
+- Targeting: IT Managers, CTOs em Orlando/Florianópolis
 - Sponsored content e InMail campaigns
 
 ### 4. **Email Marketing**
@@ -138,8 +138,8 @@
 ### 2. **Industry Partners**
 **Associações Profissionais:**
 - Orlando Technology Association (OTA)
-- Florida Association of Healthcare IT (FAHIT)
-- Central Florida Computer Society
+- Florianópolis Association of Healthcare IT (FAHIT)
+- Central Florianópolis Computer Society
 
 **Eventos e Conferências:**
 - IT/Security conferences em Orlando

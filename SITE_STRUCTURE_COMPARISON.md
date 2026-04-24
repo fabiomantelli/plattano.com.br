@@ -132,7 +132,7 @@ Home (/)
 │  │  ├─ ⭐ ExaGrid Certified
 │  │  └─ 🌟 Rainforest Partner
 │  ├─ Time e Expertise
-│  ├─ Localização (Florida)
+│  ├─ Localização (Florianópolis)
 │  └─ CTA: "Conheça Nossa Equipe"
 │
 ├─ Contact (/contact)

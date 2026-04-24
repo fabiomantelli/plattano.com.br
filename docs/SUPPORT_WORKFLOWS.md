@@ -45,7 +45,7 @@
 
 ### Stage 2: Lead Qualification
 
-**Owner:** Sales Agent (Florida)
+**Owner:** Sales Agent (Florianópolis)
 
 **Process:**
 1. **Initial Contact**
@@ -82,7 +82,7 @@
 
 ### Stage 3: Discovery & Needs Analysis
 
-**Owner:** Sales Agent (Florida) + Technical Team (Brazil, if needed)
+**Owner:** Sales Agent (Florianópolis) + Technical Team (Brazil, if needed)
 
 **Process:**
 1. **Discovery Call**
@@ -110,7 +110,7 @@
 
 ### Stage 4: Proposal & Negotiation
 
-**Owner:** Sales Agent (Florida)
+**Owner:** Sales Agent (Florianópolis)
 
 **Process:**
 1. **Proposal Creation**
@@ -138,7 +138,7 @@
 
 ### Stage 5: Contract & Close
 
-**Owner:** Sales Agent (Florida) + Admin
+**Owner:** Sales Agent (Florianópolis) + Admin
 
 **Process:**
 1. **Contract Preparation**
@@ -165,7 +165,7 @@
 
 ### Stage 6: Handoff to Implementation
 
-**Owner:** Sales Agent (Florida) → Brazil IT Team
+**Owner:** Sales Agent (Florianópolis) → Brazil IT Team
 
 **Process:**
 1. **Sales Handoff**

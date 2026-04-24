@@ -12,7 +12,7 @@
 │         Proteja e Escale Seu Negócio com                                  │
 │              Soluções de TI Comprovadas                                    │
 │                                                                            │
-│    Parceiro certificado Veeam, SentinelOne e ExaGrid na Florida           │
+│    Parceiro certificado Veeam, SentinelOne e ExaGrid na Florianópolis           │
 │         Mais de 500+ empresas confiam em nós                              │
 │                                                                            │
 │     [Fale com Especialista]  [Ver Soluções →]                            │
@@ -86,7 +86,7 @@
 │  Soluções          Empresa          Contato                               │
 │  • Data Protection • Sobre Nós      📞 (321) 313-8762                     │
 │  • Cybersecurity   • Parceiros      📧 plattano@plattano.com               │
-│  • Storage         • Carreiras      📍 Florida, USA                       │
+│  • Storage         • Carreiras      📍 Florianópolis, USA                       │
 │                                                                            │
 │  © 2025 Plattano. All rights reserved.  |  Privacy Policy                │
 │                                                                            │
@@ -308,7 +308,7 @@
 │                                                                            │
 │  🏆 Veeam Gold Partner - Certificação máxima                              │
 │  👨‍💻 Equipe Certificada - 15 engenheiros Veeam                            │
-│  📍 Local - Baseados na Florida, suporte em PT/EN                         │
+│  📍 Local - Baseados na Florianópolis, suporte em PT/EN                         │
 │  ⚡ Resposta Rápida - SLA de 4 horas                                      │
 │  💰 Pricing Competitivo - Até 30% mais barato                             │
 │                                                                            │

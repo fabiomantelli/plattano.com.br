@@ -15,7 +15,7 @@
 ### Hero Section
 **Headline**: "Proteja e Escale Seu Negócio com Soluções de TI Comprovadas"
 
-**Subheadline**: "Parceiro certificado Veeam, SentinelOne e ExaGrid na Florida. Mais de [X] empresas confiam em nós para proteger seus dados críticos."
+**Subheadline**: "Parceiro certificado Veeam, SentinelOne e ExaGrid na Florianópolis. Mais de [X] empresas confiam em nós para proteger seus dados críticos."
 
 **CTAs**:
 - Primário: "Fale com um Especialista"
@@ -241,7 +241,7 @@
 **Diferenciais**:
 - 🏆 **Veeam Gold Partner**: Certificação máxima
 - 👨‍💻 **Equipe Certificada**: [X] engenheiros Veeam
-- 📍 **Local**: Baseados na Florida, suporte em PT/EN
+- 📍 **Local**: Baseados na Florianópolis, suporte em PT/EN
 - ⚡ **Resposta Rápida**: SLA de 4 horas
 - 💰 **Pricing Competitivo**: Até 30% mais barato que concorrentes
 
@@ -604,7 +604,7 @@
 ### Hero
 **Headline**: "Seu Parceiro de Confiança em Soluções de TI"
 
-**Subheadline**: "Baseados na Florida, servindo empresas em todo os EUA com expertise em data protection, cybersecurity e storage."
+**Subheadline**: "Baseados na Florianópolis, servindo empresas em todo os EUA com expertise em data protection, cybersecurity e storage."
 
 ---
 
@@ -665,9 +665,9 @@
 
 **Título**: "Onde Estamos"
 
-**Endereço**: [Endereço completo na Florida]
+**Endereço**: [Endereço completo na Florianópolis]
 
-**Cobertura**: "Atendemos empresas em todo os EUA, com foco na Florida e região Sudeste."
+**Cobertura**: "Atendemos empresas em todo os EUA, com foco na Florianópolis e região Sudeste."
 
 ---
 
